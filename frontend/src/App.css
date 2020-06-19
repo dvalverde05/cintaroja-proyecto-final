@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+a {
+  color: #282c34;
+}
+
+a:hover {
+  color: #282c34;
+  text-decoration: none;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.main-card {
+  background-color: white;
+  cursor: pointer;
+}
+
+.main-card:hover .card-image img{
+  transform: scale(1.2);
+}
+
+.icon-class {
+  width: 15px;
+}
+
+.icon-skill {
+  width: 80px;
+}
+
+.card-image {
+  overflow: hidden;
+  border-radius: 6px;
+  width: 100px;
+  transition: .5s;
+}
+
+.card-image img {
+  transition: .5s;
+}
+
+.monster-pic-detail {
+  width: 150px;
+}
+
+.navbar-brand {
+  background-image: url('/images/logo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.home-bg {
+  background-image: url('/images/bg-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.main-container {
+  /* background-image: url('/images/bg-pattern.png'); */
+  background-color: #292929;
+  background-size: 100px;
+  background-blend-mode: multiply;
+}
+
+.attribute-type {
+  width: 30px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
