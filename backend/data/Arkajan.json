@@ -1,0 +1,2432 @@
+{
+"id": 131,
+"type_id": 59,
+"attribute_id": 4,
+"name": "Arkajan",
+"class_id": 3,
+"grade": 2,
+"devilmon_req": 12,
+"advanced": 0,
+"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-arkajan.png",
+"screenshot_path": "http://cdn.shinsoft.fr/sw/summon/screenshot/std/icon-arkajan.png",
+"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-arkajan.png",
+"screenshot_path_awakened": "http://cdn.shinsoft.fr/sw/summon/screenshot/awaken/screenshot-arkajan.png",
+"last_update": "2020-06-15 01:30:44",
+"last_updater": 1,
+"last_update_ts": "1592177444",
+"count": {
+"reviews": 0,
+"favorites": 115,
+"awakenings": 3,
+"abilities": 3,
+"skills": 4,
+"stats": 20,
+"same_as": 4,
+"fusion": 0,
+"material_fusion": 0,
+"language_comments": {
+"FR": 4,
+"EN": 0,
+"OTHER": 0
+},
+"comments": 4,
+"location": 3,
+"teams": 0
+},
+"attribute": {
+"id": 4,
+"tid": "LIGHT"
+},
+"type": {
+"id": 59,
+"tid": "YETI"
+},
+"class": {
+"id": 3,
+"tid": "DEFENSE"
+},
+"name_translation": {
+"EN": "Arkajan"
+},
+"reviews_summary": null,
+"medias": [
+{
+"type": "YOUTUBE",
+"url": "https://www.youtube.com/embed/ya8RmV7QCtU?feature=oembed"
+}
+],
+"rating": {
+"giants": 2,
+"dragons": 2,
+"necropolis": 6,
+"toa": null,
+"toa_hm": 2,
+"arena_offense": 2,
+"arena_defense": 2,
+"guildwar_offense": 2,
+"guildwar_defense": 2,
+"raid": null,
+"maze": null,
+"users": 8,
+"overall": {
+"dungeon": 3,
+"toa": 2,
+"arena": 2,
+"gvg": 2,
+"users": 8
+}
+},
+"higher_rating": {
+"key": "necropolis",
+"value": 6,
+"cat": "dungeon"
+},
+"users_rating": {
+"list": [
+{
+"user_id": "334",
+"summon_id": "131",
+"overall_rating": "9",
+"giants": null,
+"dragons": null,
+"necropolis": null,
+"toa": null,
+"toa_hm": null,
+"arena_offense": null,
+"arena_defense": null,
+"guildwar_offense": null,
+"guildwar_defense": null,
+"raid": null,
+"maze": null,
+"user_name": "Benjamin Shiruki",
+"name": "Benjamin Shiruki",
+"avatar": "https://cdn.sw-db.com/sw/upload/user/334/13083228_10206331717828726_8915320597932804149_n.jpg",
+"contrib": "383"
+},
+{
+"user_id": "994",
+"summon_id": "131",
+"overall_rating": "6",
+"giants": null,
+"dragons": null,
+"necropolis": null,
+"toa": null,
+"toa_hm": null,
+"arena_offense": null,
+"arena_defense": null,
+"guildwar_offense": null,
+"guildwar_defense": null,
+"raid": null,
+"maze": null,
+"user_name": "FATiG",
+"name": "FATiG",
+"avatar": "https://cdn.shinsoft.fr/sw/upload/user/994/logo perso retouché.jpg",
+"contrib": "1560"
+},
+{
+"user_id": "3586",
+"summon_id": "131",
+"overall_rating": "7",
+"giants": "2",
+"dragons": "2",
+"necropolis": "10",
+"toa": "6",
+"toa_hm": "8",
+"arena_offense": "2",
+"arena_defense": "2",
+"guildwar_offense": "2",
+"guildwar_defense": "3",
+"raid": "4",
+"maze": null,
+"user_name": "Samsamfly",
+"name": "Samsamfly",
+"avatar": "",
+"contrib": "109"
+},
+{
+"user_id": "6972",
+"summon_id": "131",
+"overall_rating": "8",
+"giants": "2",
+"dragons": "2",
+"necropolis": "9",
+"toa": "6",
+"toa_hm": "8",
+"arena_offense": "2",
+"arena_defense": "2",
+"guildwar_offense": "2",
+"guildwar_defense": "3",
+"raid": null,
+"maze": null,
+"user_name": "valard",
+"name": "valard",
+"avatar": "https://cdn.sw-db.com/sw/upload/user/6972/chowiona.jpg",
+"contrib": "1486"
+}
+],
+"overall": {
+"giants": 2,
+"dragons": 2,
+"necropolis": 10,
+"toa": 6,
+"toa_hm": 8,
+"arena_offense": 2,
+"arena_defense": 2,
+"guildwar_offense": 2,
+"guildwar_defense": 3,
+"overall_rating": 8,
+"raid": 4,
+"categories": {
+"dungeon": 5,
+"toa": 7,
+"arena": 2,
+"gvg": 2
+}
+}
+},
+"users_favorite": [
+{
+"user_id": "119",
+"user_name": "Try",
+"avatar": null,
+"contrib": "102"
+},
+{
+"user_id": "202",
+"user_name": "Lucide DievalOupa",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/202/10010407_10204700040159867_4213309486721880527_o.jpg",
+"contrib": "194"
+},
+{
+"user_id": "982",
+"user_name": "Mysterix",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/982/image.jpeg",
+"contrib": "48"
+},
+{
+"user_id": "637",
+"user_name": "Adracifius",
+"avatar": null,
+"contrib": "317"
+},
+{
+"user_id": "1198",
+"user_name": "Bubbledine",
+"avatar": null,
+"contrib": "368"
+},
+{
+"user_id": "1784",
+"user_name": "Alex Woner",
+"avatar": "https://lh3.googleusercontent.com/-Quubsyl76Pw/AAAAAAAAAAI/AAAAAAAAAN0/gNhFiifDQHE/photo.jpg?sz=100",
+"contrib": "21"
+},
+{
+"user_id": "893",
+"user_name": "Necropancar",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/893/hex_morgan_by_witchingbones-d81gd2f.jpg",
+"contrib": "197"
+},
+{
+"user_id": "1745",
+"user_name": "jonathan",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/1745/106633.jpg",
+"contrib": "174"
+},
+{
+"user_id": "2436",
+"user_name": "Superkakuzu",
+"avatar": null,
+"contrib": "103"
+},
+{
+"user_id": "2645",
+"user_name": "Berger Jerome",
+"avatar": null,
+"contrib": "152"
+},
+{
+"user_id": "2869",
+"user_name": "Charon",
+"avatar": null,
+"contrib": "152"
+},
+{
+"user_id": "3634",
+"user_name": "HmmYouTouch MyTralala",
+"avatar": null,
+"contrib": "32"
+},
+{
+"user_id": "10693",
+"user_name": "Sabri Na",
+"avatar": null,
+"contrib": "274"
+},
+{
+"user_id": "3892",
+"user_name": "Demondenecker",
+"avatar": null,
+"contrib": "128"
+},
+{
+"user_id": "3926",
+"user_name": "Piepierre",
+"avatar": null,
+"contrib": "56"
+},
+{
+"user_id": "4023",
+"user_name": "iNarco",
+"avatar": null,
+"contrib": "128"
+},
+{
+"user_id": "2923",
+"user_name": "Rockso",
+"avatar": null,
+"contrib": "234"
+},
+{
+"user_id": "4577",
+"user_name": "stunblast",
+"avatar": null,
+"contrib": "124"
+},
+{
+"user_id": "8473",
+"user_name": "Romain Lalanne",
+"avatar": null,
+"contrib": "546"
+},
+{
+"user_id": "4612",
+"user_name": "cissou",
+"avatar": null,
+"contrib": "158"
+},
+{
+"user_id": "4653",
+"user_name": "Morla",
+"avatar": null,
+"contrib": "108"
+},
+{
+"user_id": "463",
+"user_name": "TGG",
+"avatar": null,
+"contrib": "176"
+},
+{
+"user_id": "5042",
+"user_name": "Jawasa Jin",
+"avatar": null,
+"contrib": "31"
+},
+{
+"user_id": "2646",
+"user_name": "akaleen",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/2646/Anime-Wallpaper-2.jpg",
+"contrib": "159"
+},
+{
+"user_id": "4275",
+"user_name": "Juma Mohammed",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/4275/10267772_1443604112553456_1260308792327485725_n.jpg",
+"contrib": "41"
+},
+{
+"user_id": "100",
+"user_name": "Yukihiten",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/100/SAO-sword-art-online-34784898-1920-1200.jpg",
+"contrib": "157"
+},
+{
+"user_id": "4144",
+"user_name": "Kashmarix",
+"avatar": null,
+"contrib": "148"
+},
+{
+"user_id": "3137",
+"user_name": "imotheps",
+"avatar": null,
+"contrib": "164"
+},
+{
+"user_id": "6110",
+"user_name": "gislaine marquet",
+"avatar": null,
+"contrib": "120"
+},
+{
+"user_id": "6568",
+"user_name": "alex dumetier",
+"avatar": null,
+"contrib": "118"
+},
+{
+"user_id": "6761",
+"user_name": "Williann Johnston",
+"avatar": null,
+"contrib": "20"
+},
+{
+"user_id": "207",
+"user_name": "Greg Crouzet",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/207/2016-02-04-18-11-23--2031455887.jpeg",
+"contrib": "211"
+},
+{
+"user_id": "7023",
+"user_name": "Masnier",
+"avatar": null,
+"contrib": "126"
+},
+{
+"user_id": "330",
+"user_name": "Angelo_R_Ltd",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/330/FSCN1588square.jpg",
+"contrib": "754"
+},
+{
+"user_id": "6751",
+"user_name": "Alex l'Alec",
+"avatar": null,
+"contrib": "96"
+},
+{
+"user_id": "256",
+"user_name": "Fred Rob",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/256/lapinou2.jpg",
+"contrib": "106"
+},
+{
+"user_id": "7257",
+"user_name": "Polokrik",
+"avatar": null,
+"contrib": "152"
+},
+{
+"user_id": "1153",
+"user_name": "william bonin",
+"avatar": null,
+"contrib": "160"
+},
+{
+"user_id": "8179",
+"user_name": "NGK",
+"avatar": null,
+"contrib": "208"
+},
+{
+"user_id": "6088",
+"user_name": "Jean-Raphaël Biehler",
+"avatar": null,
+"contrib": "478"
+},
+{
+"user_id": "8925",
+"user_name": "Julien",
+"avatar": null,
+"contrib": "162"
+},
+{
+"user_id": "8991",
+"user_name": "Aurion",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/8991/FF wallpaper 1.jpg",
+"contrib": "59"
+},
+{
+"user_id": "9280",
+"user_name": "seniso",
+"avatar": null,
+"contrib": "166"
+},
+{
+"user_id": "2690",
+"user_name": "BypByp",
+"avatar": null,
+"contrib": "333"
+},
+{
+"user_id": "8699",
+"user_name": "jester ferrer",
+"avatar": null,
+"contrib": "17"
+},
+{
+"user_id": "1199",
+"user_name": "basubi",
+"avatar": null,
+"contrib": "180"
+},
+{
+"user_id": "8518",
+"user_name": "JideL",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/8518/121.jpg",
+"contrib": "92"
+},
+{
+"user_id": "9615",
+"user_name": "Christian",
+"avatar": null,
+"contrib": "263"
+},
+{
+"user_id": "9901",
+"user_name": "Bireon25",
+"avatar": null,
+"contrib": "186"
+},
+{
+"user_id": "5094",
+"user_name": "Akiro",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/5094/Bill Cipher 1.jpg",
+"contrib": "70"
+},
+{
+"user_id": "10046",
+"user_name": "Karstou",
+"avatar": null,
+"contrib": "149"
+},
+{
+"user_id": "10504",
+"user_name": "Helli",
+"avatar": null,
+"contrib": "534"
+},
+{
+"user_id": "10537",
+"user_name": "Marimout",
+"avatar": null,
+"contrib": "209"
+},
+{
+"user_id": "10658",
+"user_name": "Baldr Game",
+"avatar": null,
+"contrib": "416"
+},
+{
+"user_id": "13978",
+"user_name": "licorne",
+"avatar": null,
+"contrib": "598"
+},
+{
+"user_id": "10796",
+"user_name": "Assioh",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/10796/av-1073.jpg",
+"contrib": "104"
+},
+{
+"user_id": "5808",
+"user_name": "Faltoyano",
+"avatar": null,
+"contrib": "227"
+},
+{
+"user_id": "11103",
+"user_name": "Ndrf83",
+"avatar": null,
+"contrib": "162"
+},
+{
+"user_id": "10350",
+"user_name": "Neciloth",
+"avatar": null,
+"contrib": "620"
+},
+{
+"user_id": "11693",
+"user_name": "leo malet",
+"avatar": null,
+"contrib": "167"
+},
+{
+"user_id": "4818",
+"user_name": "Wahbi Abderrasoul",
+"avatar": null,
+"contrib": "268"
+},
+{
+"user_id": "12056",
+"user_name": "Clement TORDEUX",
+"avatar": null,
+"contrib": "36"
+},
+{
+"user_id": "18869",
+"user_name": "Ricardo Kendy Nakazone",
+"avatar": null,
+"contrib": "138"
+},
+{
+"user_id": "12230",
+"user_name": "nirato",
+"avatar": null,
+"contrib": "86"
+},
+{
+"user_id": "12292",
+"user_name": "Lulou40",
+"avatar": null,
+"contrib": "174"
+},
+{
+"user_id": "7756",
+"user_name": "Vampire142",
+"avatar": null,
+"contrib": "352"
+},
+{
+"user_id": "12627",
+"user_name": "AioSentinell",
+"avatar": null,
+"contrib": "610"
+},
+{
+"user_id": "13551",
+"user_name": "Sheep",
+"avatar": null,
+"contrib": "160"
+},
+{
+"user_id": "12689",
+"user_name": "pietrement",
+"avatar": null,
+"contrib": "182"
+},
+{
+"user_id": "11963",
+"user_name": "Az0rd",
+"avatar": null,
+"contrib": "164"
+},
+{
+"user_id": "13049",
+"user_name": "Namazu",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/13049/pinguin.png",
+"contrib": "190"
+},
+{
+"user_id": "13207",
+"user_name": "MrTheMarcusss",
+"avatar": null,
+"contrib": "194"
+},
+{
+"user_id": "13367",
+"user_name": "Enjoy",
+"avatar": null,
+"contrib": "189"
+},
+{
+"user_id": "13328",
+"user_name": "ekns",
+"avatar": null,
+"contrib": "108"
+},
+{
+"user_id": "3681",
+"user_name": "squires83",
+"avatar": null,
+"contrib": "196"
+},
+{
+"user_id": "13621",
+"user_name": "Florent Blanc",
+"avatar": null,
+"contrib": "110"
+},
+{
+"user_id": "2191",
+"user_name": "Lakyn",
+"avatar": null,
+"contrib": "394"
+},
+{
+"user_id": "13748",
+"user_name": "Marc Soune-Seyne",
+"avatar": null,
+"contrib": "262"
+},
+{
+"user_id": "14010",
+"user_name": "Kevin Mikusiak",
+"avatar": null,
+"contrib": "156"
+},
+{
+"user_id": "1637",
+"user_name": "dovakhiin",
+"avatar": "http://cdn.shinsoft.fr/sw/upload/user/1637/avatar85617_1.gif",
+"contrib": "531"
+},
+{
+"user_id": "13109",
+"user_name": "Ariel Munera",
+"avatar": null,
+"contrib": "1251"
+},
+{
+"user_id": "14178",
+"user_name": "Zyrko",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/14178/PR.jpg",
+"contrib": "86"
+},
+{
+"user_id": "14196",
+"user_name": "RaitenTaisou",
+"avatar": null,
+"contrib": "88"
+},
+{
+"user_id": "13925",
+"user_name": "Vasco Alves",
+"avatar": null,
+"contrib": "158"
+},
+{
+"user_id": "14358",
+"user_name": "Luca Bellucci",
+"avatar": null,
+"contrib": "192"
+},
+{
+"user_id": "5615",
+"user_name": "Skyox",
+"avatar": null,
+"contrib": "412"
+},
+{
+"user_id": "4774",
+"user_name": "Michael HUEBER",
+"avatar": null,
+"contrib": "649"
+},
+{
+"user_id": "8375",
+"user_name": "jitsu13",
+"avatar": null,
+"contrib": "698"
+},
+{
+"user_id": "14553",
+"user_name": "kaiser",
+"avatar": null,
+"contrib": "196"
+},
+{
+"user_id": "14580",
+"user_name": "JULIEN",
+"avatar": null,
+"contrib": "182"
+},
+{
+"user_id": "2243",
+"user_name": "Hyparkus",
+"avatar": null,
+"contrib": "252"
+},
+{
+"user_id": "10469",
+"user_name": "Glorfy",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/10469/Kirigaya Kazuto.jpg",
+"contrib": "555"
+},
+{
+"user_id": "10325",
+"user_name": "Nostroga",
+"avatar": null,
+"contrib": "246"
+},
+{
+"user_id": "14609",
+"user_name": "Caniglouze",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/14609/100616181034_7.jpg",
+"contrib": "85"
+},
+{
+"user_id": "14619",
+"user_name": "Marc",
+"avatar": null,
+"contrib": "602"
+},
+{
+"user_id": "6223",
+"user_name": "markvador49",
+"avatar": null,
+"contrib": "1230"
+},
+{
+"user_id": "13060",
+"user_name": "Samisama",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/13060/icon-teshar.png",
+"contrib": "438"
+},
+{
+"user_id": "15320",
+"user_name": "Rene Grignet",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/15320/water-magic-knight1.jpg",
+"contrib": "1146"
+},
+{
+"user_id": "4996",
+"user_name": "Kuroneos",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/4996/ARK.png",
+"contrib": "1134"
+},
+{
+"user_id": "5831",
+"user_name": "NachoHume",
+"avatar": null,
+"contrib": "635"
+},
+{
+"user_id": "11569",
+"user_name": "Loïc Domin",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/11569/aLMMpgg_460s.jpg",
+"contrib": "535"
+},
+{
+"user_id": "17335",
+"user_name": "minot",
+"avatar": null,
+"contrib": "428"
+},
+{
+"user_id": "11450",
+"user_name": "Remi Neto",
+"avatar": null,
+"contrib": "418"
+},
+{
+"user_id": "14278",
+"user_name": "ChronosLD",
+"avatar": "http://cdn.sw-db.com/sw/upload/user/14278/chronos_by_frankvenice-d5xpd3k.jpg",
+"contrib": "945"
+},
+{
+"user_id": "11941",
+"user_name": "pouyoune",
+"avatar": null,
+"contrib": "483"
+},
+{
+"user_id": "18090",
+"user_name": "Mathieu Rogy",
+"avatar": null,
+"contrib": "728"
+},
+{
+"user_id": "18181",
+"user_name": "Arnaud Lopez",
+"avatar": null,
+"contrib": "406"
+},
+{
+"user_id": "20148",
+"user_name": "AmArOsS",
+"avatar": null,
+"contrib": "441"
+},
+{
+"user_id": "20718",
+"user_name": "Seb Cop",
+"avatar": null,
+"contrib": "102"
+},
+{
+"user_id": "12168",
+"user_name": "Patrice GC",
+"avatar": null,
+"contrib": "221"
+},
+{
+"user_id": "8014",
+"user_name": "Skull Fire",
+"avatar": null,
+"contrib": "132"
+},
+{
+"user_id": "22314",
+"user_name": "Julien Legrand",
+"avatar": null,
+"contrib": "689"
+},
+{
+"user_id": "24699",
+"user_name": "Seebirt",
+"avatar": null,
+"contrib": "598"
+},
+{
+"user_id": "6025",
+"user_name": "Spice Chips",
+"avatar": null,
+"contrib": "667"
+},
+{
+"user_id": "25937",
+"user_name": "PATRICIO\\",
+"avatar": null,
+"contrib": "0"
+}
+],
+"awakenings": [
+{
+"summon_id": 131,
+"attribute_id": 4,
+"size": "LOW",
+"quantity": 15,
+"attribute": {
+"id": 4,
+"tid": "LIGHT"
+}
+},
+{
+"summon_id": 131,
+"attribute_id": 4,
+"size": "MID",
+"quantity": 1,
+"attribute": {
+"id": 4,
+"tid": "LIGHT"
+}
+},
+{
+"summon_id": 131,
+"attribute_id": 6,
+"size": "LOW",
+"quantity": 20,
+"attribute": {
+"id": 6,
+"tid": "MAGIC"
+}
+}
+],
+"awakening_bonus": {
+"summon_id": 131,
+"stat": "SKILL",
+"value": 26371,
+"skill": {
+"id": 26371,
+"summon_id": 131,
+"translate_id": "ARKAJAN.SILENT_RAGE",
+"type": "ACTIVE",
+"icon_path": "http://cdn.shinsoft.fr/sw/skill/icon/skill-arkajan.silent_rage.jpg",
+"modifier": "75%*",
+"req_awaken": 1,
+"stage": null,
+"stage_parent_id": null,
+"parent_id": null,
+"name_translates": [],
+"name": "Silent Rage"
+}
+},
+"abilities": [
+{
+"id": 2,
+"tid": "BUFF.ATK"
+},
+{
+"id": 23,
+"tid": "DEBUFF.SPD"
+},
+{
+"id": 24,
+"tid": "DEBUFF.STUN"
+}
+],
+"skills": [
+{
+"id": 26371,
+"translate_id": "ARKAJAN.SILENT_RAGE",
+"type": "ACTIVE",
+"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-arkajan.silent_rage.jpg",
+"modifier": "75%*",
+"req_awaken": 1,
+"stage": null,
+"stage_parent_id": null,
+"parent_id": null,
+"name_translates": [
+{
+"id": "ARKAJAN.SILENT_RAGE",
+"type": "SKILL_NAME",
+"langcode": "EN",
+"translation": "Silent Rage"
+}
+],
+"name": "Silent Rage",
+"desc_translates": [
+{
+"id": "ARKAJAN.SILENT_RAGE",
+"type": "SKILL_DESC",
+"langcode": "EN",
+"translation": "Increases your Attack Power for 2 turns. For the next 3 turns, you have a 50% chance to counterattack whenever an ally is attacked. (Reusable in 5 turns)"
+}
+],
+"desc": "Increases your Attack Power for 2 turns. For the next 3 turns, you have a 50% chance to counterattack whenever an ally is attacked. (Reusable in 5 turns)",
+"evolve_translates": [
+{
+"id": "ARKAJAN.SILENT_RAGE",
+"type": "SKILL_EVOLVE",
+"langcode": "EN",
+"translation": "Lv.2 Cooltime Turn -1<br />\r\nLv.3 Cooltime Turn -1"
+}
+],
+"evolve": "Lv.2 Cooltime Turn -1<br />\r\nLv.3 Cooltime Turn -1"
+},
+{
+"id": 26370,
+"translate_id": "ARKAJAN.HEAVY_SLASH",
+"type": "ACTIVE",
+"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-arkajan.heavy_slash.jpg",
+"modifier": "(150%+150%) x2",
+"req_awaken": 0,
+"stage": null,
+"stage_parent_id": null,
+"parent_id": null,
+"name_translates": [
+{
+"id": "ARKAJAN.HEAVY_SLASH",
+"type": "SKILL_NAME",
+"langcode": "EN",
+"translation": "Heavy Slash"
+}
+],
+"name": "Heavy Slash",
+"desc_translates": [
+{
+"id": "ARKAJAN.HEAVY_SLASH",
+"type": "SKILL_DESC",
+"langcode": "EN",
+"translation": "Attacks the enemy 2 times and stuns the enemy for 1 turn with a 30% chance for each attack. This attack will deal more damage according to your Defense. (Reusable in 3 turns)"
+}
+],
+"desc": "Attacks the enemy 2 times and stuns the enemy for 1 turn with a 30% chance for each attack. This attack will deal more damage according to your Defense. (Reusable in 3 turns)",
+"evolve_translates": [
+{
+"id": "ARKAJAN.HEAVY_SLASH",
+"type": "SKILL_EVOLVE",
+"langcode": "EN",
+"translation": "Lv.2 Damage +10%<br />\r\nLv.3 Harmful Effect Rate +10%<br />\r\nLv.4 Damage +10%<br />\r\nLv.5 Harmful Effect Rate +10%<br />\r\nLv.6 Damage +10%<br />\r\nLv.7 Cooltime Turn -1"
+}
+],
+"evolve": "Lv.2 Damage +10%<br />\r\nLv.3 Harmful Effect Rate +10%<br />\r\nLv.4 Damage +10%<br />\r\nLv.5 Harmful Effect Rate +10%<br />\r\nLv.6 Damage +10%<br />\r\nLv.7 Cooltime Turn -1"
+},
+{
+"id": 26369,
+"translate_id": "ARKAJAN.SLASH_HOOK",
+"type": "ACTIVE",
+"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-arkajan.slash_hook.jpg",
+"modifier": "(190% +20) x2",
+"req_awaken": 0,
+"stage": null,
+"stage_parent_id": null,
+"parent_id": null,
+"name_translates": [
+{
+"id": "ARKAJAN.SLASH_HOOK",
+"type": "SKILL_NAME",
+"langcode": "EN",
+"translation": "Slash Hook"
+}
+],
+"name": "Slash Hook",
+"desc_translates": [
+{
+"id": "ARKAJAN.SLASH_HOOK",
+"type": "SKILL_DESC",
+"langcode": "EN",
+"translation": "Attacks an enemy 2 times with fast punches. Each punch has a 50% chance to decrease the enemy's Attack Speed for 1 turn."
+}
+],
+"desc": "Attacks an enemy 2 times with fast punches. Each punch has a 50% chance to decrease the enemy's Attack Speed for 1 turn.",
+"evolve_translates": [
+{
+"id": "ARKAJAN.SLASH_HOOK",
+"type": "SKILL_EVOLVE",
+"langcode": "EN",
+"translation": "Lv.2 Damage +5%<br />\r\nLv.3 Damage +5%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Damage +10%<br />\r\nLv.7 Harmful Effect Rate +20%"
+}
+],
+"evolve": "Lv.2 Damage +5%<br />\r\nLv.3 Damage +5%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Damage +10%<br />\r\nLv.7 Harmful Effect Rate +20%"
+},
+{
+"id": 27527,
+"translate_id": "ARKAJAN.SILENT_RAGE_(PASSIVE)",
+"type": "PASSIVE",
+"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-arkajan.silent_rage_(passive).jpg",
+"modifier": "75%*",
+"req_awaken": 0,
+"stage": null,
+"stage_parent_id": null,
+"parent_id": null,
+"name_translates": [
+{
+"id": "ARKAJAN.SILENT_RAGE_(PASSIVE)",
+"type": "SKILL_NAME",
+"langcode": "EN",
+"translation": "Silent Rage (Passive) (Awakened)"
+}
+],
+"name": "Silent Rage (Passive) (Awakened)",
+"desc_translates": [
+{
+"id": "ARKAJAN.SILENT_RAGE_(PASSIVE)",
+"type": "SKILL_DESC",
+"langcode": "EN",
+"translation": "Counterattacks with a 50% chance when an ally is attacked. [Automatic Effect]"
+}
+],
+"desc": "Counterattacks with a 50% chance when an ally is attacked. [Automatic Effect]"
+}
+],
+"stats": [
+{
+"summon_id": 131,
+"grade": 2,
+"level": 1,
+"awakened": 0,
+"atk": 56,
+"hp": 1095,
+"def": 86,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 2,
+"level": 1,
+"awakened": 1,
+"atk": 61,
+"hp": 1245,
+"def": 96,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 2,
+"level": 20,
+"awakened": 0,
+"atk": 106,
+"hp": 2085,
+"def": 164,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 2,
+"level": 20,
+"awakened": 1,
+"atk": 115,
+"hp": 2370,
+"def": 182,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 3,
+"level": 1,
+"awakened": 0,
+"atk": 85,
+"hp": 1680,
+"def": 131,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 3,
+"level": 1,
+"awakened": 1,
+"atk": 92,
+"hp": 1890,
+"def": 145,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 3,
+"level": 25,
+"awakened": 0,
+"atk": 153,
+"hp": 3015,
+"def": 236,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 3,
+"level": 25,
+"awakened": 1,
+"atk": 166,
+"hp": 3405,
+"def": 262,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 4,
+"level": 1,
+"awakened": 0,
+"atk": 122,
+"hp": 2415,
+"def": 189,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 4,
+"level": 1,
+"awakened": 1,
+"atk": 133,
+"hp": 2730,
+"def": 209,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 4,
+"level": 30,
+"awakened": 0,
+"atk": 208,
+"hp": 4095,
+"def": 321,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 4,
+"level": 30,
+"awakened": 1,
+"atk": 226,
+"hp": 4635,
+"def": 356,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 5,
+"level": 1,
+"awakened": 0,
+"atk": 166,
+"hp": 3285,
+"def": 257,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 5,
+"level": 1,
+"awakened": 1,
+"atk": 181,
+"hp": 3705,
+"def": 285,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 5,
+"level": 35,
+"awakened": 0,
+"atk": 283,
+"hp": 5565,
+"def": 436,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 5,
+"level": 35,
+"awakened": 1,
+"atk": 307,
+"hp": 6300,
+"def": 484,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 6,
+"level": 1,
+"awakened": 0,
+"atk": 226,
+"hp": 4455,
+"def": 349,
+"spd": 100,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 6,
+"level": 1,
+"awakened": 1,
+"atk": 245,
+"hp": 5040,
+"def": 387,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 6,
+"level": 40,
+"awakened": 0,
+"atk": 384,
+"hp": 7575,
+"def": 593,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+},
+{
+"summon_id": 131,
+"grade": 6,
+"level": 40,
+"awakened": 1,
+"atk": 417,
+"hp": 8565,
+"def": 659,
+"spd": 101,
+"crit_rate": 15,
+"crit_dmg": 50,
+"res": 15,
+"acc": 0
+}
+],
+"statsfix": {
+"0": {
+"spd": "100",
+"crit_rate": "15",
+"crit_dmg": "50",
+"res": "15",
+"acc": "0"
+},
+"1": {
+"spd": "101",
+"crit_rate": "15",
+"crit_dmg": "50",
+"res": "15",
+"acc": "0"
+}
+},
+"same_as": [
+{
+"id": 50,
+"name": "Tantra",
+"name_translation": {
+"EN": "Tantra"
+},
+"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-tantra.png",
+"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-tantra.png",
+"grade": 2,
+"last_update_ts": "1592177476",
+"type_id": 59,
+"type": {
+"tid": "YETI"
+},
+"attribute_id": 2,
+"attribute": {
+"tid": "FIRE"
+},
+"class_id": 4,
+"class": {
+"tid": "HP"
+},
+"reviews_summary": null
+},
+{
+"id": 76,
+"name": "Kunda",
+"name_translation": {
+"EN": "Kunda"
+},
+"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-kunda.png",
+"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-kunda.png",
+"grade": 2,
+"last_update_ts": "1592177467",
+"type_id": 59,
+"type": {
+"tid": "YETI"
+},
+"attribute_id": 3,
+"attribute": {
+"tid": "WATER"
+},
+"class_id": 3,
+"class": {
+"tid": "DEFENSE"
+},
+"reviews_summary": null
+},
+{
+"id": 106,
+"name": "Rakaja",
+"name_translation": {
+"EN": "Rakaja"
+},
+"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-rakaja.png",
+"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-rakaja.png",
+"grade": 2,
+"last_update_ts": "1592177463",
+"type_id": 59,
+"type": {
+"tid": "YETI"
+},
+"attribute_id": 1,
+"attribute": {
+"tid": "WIND"
+},
+"class_id": 3,
+"class": {
+"tid": "DEFENSE"
+},
+"reviews_summary": {
+"food": {
+"count": 1,
+"percent": 100
+},
+"keep": {
+"count": 0,
+"percent": 0
+},
+"five_stars": {
+"count": 1,
+"percent": 100
+},
+"six_stars": {
+"count": 1,
+"percent": 100
+}
+}
+},
+{
+"id": 307,
+"name": "Kumae",
+"name_translation": {
+"EN": "Kumae"
+},
+"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-kumae.png",
+"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-kumae.png",
+"grade": 3,
+"last_update_ts": "1587632235",
+"type_id": 59,
+"type": {
+"tid": "YETI"
+},
+"attribute_id": 5,
+"attribute": {
+"tid": "DARK"
+},
+"class_id": 4,
+"class": {
+"tid": "HP"
+},
+"reviews_summary": null
+}
+],
+"runes": [
+{
+"build": {
+"id": 3,
+"name": "Late Game",
+"comment": null,
+"usages": 0,
+"user_id": null,
+"validated": 1,
+"like": 1,
+"like_by": "Antoine Vallas",
+"dislike": 0,
+"dislike_by": null,
+"create_date": "2015-09-28 11:38:53",
+"create_date_ts": 1443433133,
+"recommanded": false
+},
+"runes": [
+{
+"id": 3,
+"idx": 1,
+"stat": "ATK",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 3,
+"idx": 2,
+"stat": "ATK_PERCENT",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 3,
+"idx": 3,
+"stat": "DEF",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 3,
+"idx": 4,
+"stat": "CRIT_DMG",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 3,
+"idx": 5,
+"stat": "HP",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+},
+{
+"id": 3,
+"idx": 6,
+"stat": "ATK_PERCENT",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+}
+],
+"recap": {
+"sets": {
+"0": "RAGE",
+"4": "BLADE"
+},
+"slots": [
+{
+"stat": "ATK",
+"set_tid": "RAGE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "RAGE"
+},
+{
+"stat": "DEF",
+"set_tid": "RAGE"
+},
+{
+"stat": "CRIT_DMG",
+"set_tid": "RAGE"
+},
+{
+"stat": "HP",
+"set_tid": "BLADE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "BLADE"
+}
+]
+}
+},
+{
+"build": {
+"id": 2,
+"name": "Basic",
+"comment": null,
+"usages": 0,
+"user_id": null,
+"validated": 1,
+"like": 0,
+"like_by": null,
+"dislike": 0,
+"dislike_by": null,
+"create_date": "2015-09-28 11:38:53",
+"create_date_ts": 1443433133,
+"recommanded": false
+},
+"runes": [
+{
+"id": 2,
+"idx": 1,
+"stat": "ATK",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 2,
+"idx": 2,
+"stat": "ATK_PERCENT",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 2,
+"idx": 3,
+"stat": "DEF",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 2,
+"idx": 4,
+"stat": "CRIT_RATE",
+"set_id": 4,
+"set": {
+"id": 4,
+"tid": "RAGE",
+"nb_req": 4,
+"location_id": 65,
+"location": {
+"id": 65,
+"tid": "NECROPOLIS"
+}
+}
+},
+{
+"id": 2,
+"idx": 5,
+"stat": "HP",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+},
+{
+"id": 2,
+"idx": 6,
+"stat": "ATK_PERCENT",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+}
+],
+"recap": {
+"sets": {
+"0": "RAGE",
+"4": "BLADE"
+},
+"slots": [
+{
+"stat": "ATK",
+"set_tid": "RAGE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "RAGE"
+},
+{
+"stat": "DEF",
+"set_tid": "RAGE"
+},
+{
+"stat": "CRIT_RATE",
+"set_tid": "RAGE"
+},
+{
+"stat": "HP",
+"set_tid": "BLADE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "BLADE"
+}
+]
+}
+},
+{
+"build": {
+"id": 4,
+"name": "Basic",
+"comment": null,
+"usages": 1,
+"user_id": null,
+"validated": 1,
+"like": 0,
+"like_by": null,
+"dislike": 0,
+"dislike_by": null,
+"create_date": "2015-09-28 11:38:53",
+"create_date_ts": 1443433133,
+"recommanded": false
+},
+"runes": [
+{
+"id": 4,
+"idx": 1,
+"stat": "ATK",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 4,
+"idx": 2,
+"stat": "ATK_PERCENT",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 4,
+"idx": 3,
+"stat": "DEF",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 4,
+"idx": 4,
+"stat": "ATK_PERCENT",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 4,
+"idx": 5,
+"stat": "HP",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+},
+{
+"id": 4,
+"idx": 6,
+"stat": "ATK_PERCENT",
+"set_id": 3,
+"set": {
+"id": 3,
+"tid": "BLADE",
+"nb_req": 2,
+"location_id": 3,
+"location": {
+"id": 3,
+"tid": "KABIR_RUINS"
+}
+}
+}
+],
+"recap": {
+"sets": {
+"0": "FATAL",
+"4": "BLADE"
+},
+"slots": [
+{
+"stat": "ATK",
+"set_tid": "FATAL"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "FATAL"
+},
+{
+"stat": "DEF",
+"set_tid": "FATAL"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "FATAL"
+},
+{
+"stat": "HP",
+"set_tid": "BLADE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "BLADE"
+}
+]
+}
+},
+{
+"build": {
+"id": 5,
+"name": "Late Game",
+"comment": null,
+"usages": 0,
+"user_id": null,
+"validated": 1,
+"like": 0,
+"like_by": null,
+"dislike": 0,
+"dislike_by": null,
+"create_date": "2015-10-06 13:54:26",
+"create_date_ts": 1444132466,
+"recommanded": false
+},
+"runes": [
+{
+"id": 5,
+"idx": 1,
+"stat": "ATK",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+},
+{
+"id": 5,
+"idx": 2,
+"stat": "ATK_PERCENT",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+},
+{
+"id": 5,
+"idx": 3,
+"stat": "DEF",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+},
+{
+"id": 5,
+"idx": 4,
+"stat": "CRIT_DMG",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+},
+{
+"id": 5,
+"idx": 5,
+"stat": "HP",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+},
+{
+"id": 5,
+"idx": 6,
+"stat": "ATK_PERCENT",
+"set_id": 15,
+"set": {
+"id": 15,
+"tid": "REVENGE",
+"nb_req": 2,
+"location_id": 9,
+"location": {
+"id": 9,
+"tid": "FAIMON_VOLCANO"
+}
+}
+}
+],
+"recap": {
+"sets": [
+"REVENGE"
+],
+"slots": [
+{
+"stat": "ATK",
+"set_tid": "REVENGE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "REVENGE"
+},
+{
+"stat": "DEF",
+"set_tid": "REVENGE"
+},
+{
+"stat": "CRIT_DMG",
+"set_tid": "REVENGE"
+},
+{
+"stat": "HP",
+"set_tid": "REVENGE"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "REVENGE"
+}
+]
+}
+},
+{
+"build": {
+"id": 1,
+"name": null,
+"comment": null,
+"usages": 0,
+"user_id": null,
+"validated": 1,
+"like": 0,
+"like_by": null,
+"dislike": 0,
+"dislike_by": null,
+"create_date": "2015-09-28 11:38:53",
+"create_date_ts": 1443433133,
+"recommanded": false
+},
+"runes": [
+{
+"id": 1,
+"idx": 1,
+"stat": "ATK",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 1,
+"idx": 2,
+"stat": "ATK_PERCENT",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 1,
+"idx": 3,
+"stat": "DEF",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 1,
+"idx": 4,
+"stat": "ATK_PERCENT",
+"set_id": 1,
+"set": {
+"id": 1,
+"tid": "FATAL",
+"nb_req": 4,
+"location_id": 2,
+"location": {
+"id": 2,
+"tid": "MT_SIZ"
+}
+}
+},
+{
+"id": 1,
+"idx": 5,
+"stat": "HP",
+"set_id": 6,
+"set": {
+"id": 6,
+"tid": "FOCUS",
+"nb_req": 2,
+"location_id": 5,
+"location": {
+"id": 5,
+"tid": "TELAIN_FOREST"
+}
+}
+},
+{
+"id": 1,
+"idx": 6,
+"stat": "ATK_PERCENT",
+"set_id": 6,
+"set": {
+"id": 6,
+"tid": "FOCUS",
+"nb_req": 2,
+"location_id": 5,
+"location": {
+"id": 5,
+"tid": "TELAIN_FOREST"
+}
+}
+}
+],
+"recap": {
+"sets": {
+"0": "FATAL",
+"4": "FOCUS"
+},
+"slots": [
+{
+"stat": "ATK",
+"set_tid": "FATAL"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "FATAL"
+},
+{
+"stat": "DEF",
+"set_tid": "FATAL"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "FATAL"
+},
+{
+"stat": "HP",
+"set_tid": "FOCUS"
+},
+{
+"stat": "ATK_PERCENT",
+"set_tid": "FOCUS"
+}
+]
+}
+}
+],
+"substats": [
+"CRIT_RATE",
+"CRIT_DMG",
+"ATK_PERCENT",
+"SPD",
+"DEF_PERCENT"
+],
+"comments": [
+{
+"id": 2905,
+"parent_id": null,
+"summon_id": 131,
+"user_id": 11296,
+"title": "LE TUEUR DU TOAH 60 ELADRIEL AVRIL 2017",
+"comment": "Voilà ce mob m'enerve &nbsp;tellement à ce toah60 comportant Eladriel 2 Yetis Lights et 2 rois singe light que je l'ai farmé en djs. Je verrai ce qu'il donne car son pas sif contre attaque à 50% me rend dingue. Je vais opter pour du vampire lorsque je cleanerai nb10 (j'ai cleaner le 9) avec une rune ou des subs resistance pour eviter q'il se fas se stun. Et le vampire peut le rendre intuable puisqu'il se healera à chaque contre_attaque. Bref un mob à tester un peu partout à mon avis.",
+"langcode": "FR",
+"last_update": "2017-05-02 15:55:08",
+"last_update_ts": "1493733308000",
+"author": {
+"id": 11296,
+"name": "mat",
+"title": null,
+"know_more": null,
+"avatar": "",
+"contrib": 28,
+"langcode": "FR",
+"permissions": {
+"logged": true
+}
+},
+"like": {
+"nb": 0,
+"user_id": [],
+"by": ""
+}
+},
+{
+"id": 2088,
+"parent_id": null,
+"summon_id": 131,
+"user_id": 1928,
+"title": "Yeti",
+"comment": "Salut j'ai une question. Et il bon pour le necro ou pas? j'ai regardé un peut avec un pot et je trouve qu'il peut être pas trop mal. J'ai besoin d'un avis. Si oui comment le runer pour le necro.\nMerci",
+"langcode": "FR",
+"last_update": "2016-11-26 01:43:34",
+"last_update_ts": "1480121014000",
+"author": {
+"id": 1928,
+"name": "jeremy fichaux",
+"title": null,
+"know_more": null,
+"avatar": "",
+"contrib": 128,
+"langcode": "FR",
+"permissions": {
+"logged": true
+}
+},
+"like": {
+"nb": 0,
+"user_id": [],
+"by": ""
+}
+},
+{
+"id": 431,
+"parent_id": null,
+"summon_id": 131,
+"user_id": 589,
+"title": "Maintenant for pour nécro",
+"comment": "Je pense que maintenant il peut être très for pour nécropolis. Il a 50% de chance d'attaquer quand ses allié se font attaquer, vue que le boss tape en zone, il a donc 100% de change de ré-attaquer le boss, et si il tape en dernier il peut réduire la vitesse d'attaque du boss.",
+"langcode": "FR",
+"last_update": "2015-10-18 22:37:35",
+"last_update_ts": "1445200655000",
+"author": {
+"id": 589,
+"name": "Mystogan",
+"title": null,
+"know_more": null,
+"avatar": "https://cdn.shinsoft.fr/sw/upload/user/589/archon_form_by_orlenius-d515p7b.jpg",
+"contrib": 278,
+"langcode": "FR",
+"permissions": {
+"logged": true
+}
+},
+"like": {
+"nb": 0,
+"user_id": [],
+"by": ""
+},
+"responses": [
+{
+"id": 1330,
+"parent_id": 431,
+"summon_id": 131,
+"user_id": 3586,
+"title": "Re: \"Maintenant for pour nécro\"",
+"comment": "Il n'a pas 100% de chances de contre attaquer, chaque contre-attaque est indépendante l'une de l'autre donc en gros après plusieurs calculs tu arrive avec&nbsp; 94% de chance de contre attaquer au moins une fois et 6% de chance de ne pas du tout contre attaquer<br>",
+"langcode": "FR",
+"last_update": "2016-06-09 10:13:12",
+"last_update_ts": "1465459992000",
+"author": {
+"id": 3586,
+"name": "Samsamfly",
+"title": null,
+"know_more": null,
+"avatar": "",
+"contrib": 109,
+"langcode": "FR",
+"permissions": {
+"logged": true
+}
+},
+"like": {
+"nb": 0,
+"user_id": [],
+"by": ""
+}
+}
+]
+}
+],
+"all_comments": [
+{
+"date": "1445200655000"
+},
+{
+"date": "1465459992000"
+},
+{
+"date": "1480121014000"
+},
+{
+"date": "1493733308000"
+}
+],
+"location": [
+{
+"summon_id": 131,
+"location_id": 53,
+"tid": "SECRET_DUNGEON"
+},
+{
+"summon_id": 131,
+"location_id": 104,
+"tid": "DARK_LIGHT_SCROLL"
+},
+{
+"summon_id": 131,
+"location_id": 111,
+"tid": "TEMPLE_OF_WISHES"
+}
+],
+"radar": {
+"summon": {
+"atk": 0.62,
+"hp": 0.86,
+"def": 1.12,
+"spd": 0.98,
+"acc": 0,
+"res": 0.88,
+"crit_rate": 0.88,
+"crit_dmg": 1,
+"total": 3.58
+},
+"max": {
+"atk": 1.62,
+"hp": 1.55,
+"def": 1.5,
+"spd": 1.22,
+"acc": 8.33,
+"res": 2.35,
+"crit_rate": 1.76,
+"crit_dmg": 1
+}
+},
+"rank_stats": {
+"atk": "2198",
+"hp": "838",
+"def": "138",
+"spd": "3292",
+"crit_rate": "583",
+"crit_dmg": "158",
+"res": "474",
+"acc": "511"
+},
+"views": {
+"count": 7548,
+"last_view": "2020-06-19 11:24:38",
+"last_view_ts": "1592558678"
+},
+"key": "SWDB-FullInfo-131-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+"favorite": false
+}

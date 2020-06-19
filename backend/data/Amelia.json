@@ -1,0 +1,4313 @@
+{
+    "id": 538,
+    "type_id": 98,
+    "attribute_id": 3,
+    "name": "Amelia",
+    "class_id": 4,
+    "grade": 5,
+    "devilmon_req": 13,
+    "advanced": 0,
+    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+    "screenshot_path": null,
+    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+    "screenshot_path_awakened": null,
+    "last_update": "2020-04-23 11:05:22",
+    "last_updater": 1,
+    "last_update_ts": "1587632722",
+    "count": {
+        "reviews": 0,
+        "favorites": 141,
+        "awakenings": 4,
+        "abilities": 0,
+        "skills": 8,
+        "stats": 8,
+        "same_as": 4,
+        "fusion": 0,
+        "material_fusion": 0,
+        "language_comments": {
+            "FR": 4,
+            "EN": 0,
+            "OTHER": 0
+        },
+        "comments": 4,
+        "location": 4,
+        "teams": 11
+    },
+    "attribute": {
+        "id": 3,
+        "tid": "WATER"
+    },
+    "type": {
+        "id": 98,
+        "tid": "UNICORN"
+    },
+    "class": {
+        "id": 4,
+        "tid": "HP"
+    },
+    "name_translation": {
+        "EN": "Amelia"
+    },
+    "reviews_summary": null,
+    "medias": [
+        {
+            "type": "YOUTUBE",
+            "url": "https://www.youtube.com/embed/dtAKZPYin6Q?feature=oembed"
+        }
+    ],
+    "rating": {
+        "users": 7,
+        "overall": null
+    },
+    "higher_rating": {
+        "key": "users",
+        "value": 7,
+        "cat": "users"
+    },
+    "users_rating": {
+        "list": [
+            {
+                "user_id": "3490",
+                "summon_id": "538",
+                "overall_rating": "8",
+                "giants": "6",
+                "dragons": "7",
+                "necropolis": "4",
+                "toa": "6",
+                "toa_hm": "6",
+                "arena_offense": "10",
+                "arena_defense": "10",
+                "guildwar_offense": "10",
+                "guildwar_defense": "10",
+                "raid": "8",
+                "maze": null,
+                "user_name": "ImSoHappy",
+                "name": "ImSoHappy",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/3490/kid-buu-dragon-ball-z_1920x1200_217.jpg",
+                "contrib": "218"
+            },
+            {
+                "user_id": "1606",
+                "summon_id": "538",
+                "overall_rating": "8",
+                "giants": "1",
+                "dragons": "1",
+                "necropolis": "1",
+                "toa": "1",
+                "toa_hm": "1",
+                "arena_offense": "10",
+                "arena_defense": "10",
+                "guildwar_offense": "10",
+                "guildwar_defense": "10",
+                "raid": "10",
+                "maze": null,
+                "user_name": "alextaazz",
+                "name": "alextaazz",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/1606/image-drole-chat-enerve.jpg",
+                "contrib": "233"
+            },
+            {
+                "user_id": "12635",
+                "summon_id": "538",
+                "overall_rating": "10",
+                "giants": "9",
+                "dragons": "10",
+                "necropolis": "7",
+                "toa": "10",
+                "toa_hm": "10",
+                "arena_offense": "7",
+                "arena_defense": "10",
+                "guildwar_offense": "5",
+                "guildwar_defense": "8",
+                "raid": "10",
+                "maze": null,
+                "user_name": "Ccvsk Brossr",
+                "name": "Ccvsk Brossr",
+                "avatar": "",
+                "contrib": "5"
+            },
+            {
+                "user_id": "10399",
+                "summon_id": "538",
+                "overall_rating": "8",
+                "giants": "7",
+                "dragons": "8",
+                "necropolis": "5",
+                "toa": "8",
+                "toa_hm": "7",
+                "arena_offense": "6",
+                "arena_defense": "6",
+                "guildwar_offense": "6",
+                "guildwar_defense": "6",
+                "raid": "8",
+                "maze": null,
+                "user_name": "Cali",
+                "name": "Cali",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/10399/6784492-cute-pink-unicorn.jpg",
+                "contrib": "533"
+            },
+            {
+                "user_id": "12287",
+                "summon_id": "538",
+                "overall_rating": "8",
+                "giants": "6",
+                "dragons": "9",
+                "necropolis": "3",
+                "toa": "8",
+                "toa_hm": "8",
+                "arena_offense": "8",
+                "arena_defense": "7",
+                "guildwar_offense": "9",
+                "guildwar_defense": "7",
+                "raid": "10",
+                "maze": null,
+                "user_name": "KamiTaizai",
+                "name": "KamiTaizai",
+                "avatar": "",
+                "contrib": "31"
+            },
+            {
+                "user_id": "7223",
+                "summon_id": "538",
+                "overall_rating": "10",
+                "giants": "8",
+                "dragons": "10",
+                "necropolis": "2",
+                "toa": "8",
+                "toa_hm": "8",
+                "arena_offense": "7",
+                "arena_defense": "10",
+                "guildwar_offense": "7",
+                "guildwar_defense": "9",
+                "raid": "7",
+                "maze": null,
+                "user_name": "Adénor07",
+                "name": "Adénor07",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                "contrib": "921"
+            },
+            {
+                "user_id": "14584",
+                "summon_id": "538",
+                "overall_rating": "1",
+                "giants": "10",
+                "dragons": "10",
+                "necropolis": "10",
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": "10",
+                "maze": null,
+                "user_name": "Branden",
+                "name": "Branden",
+                "avatar": "",
+                "contrib": "5"
+            },
+            {
+                "user_id": "14662",
+                "summon_id": "538",
+                "overall_rating": "0",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": "9",
+                "maze": null,
+                "user_name": "Dario Montero",
+                "name": "Dario Montero",
+                "avatar": "",
+                "contrib": "5"
+            },
+            {
+                "user_id": "9369",
+                "summon_id": "538",
+                "overall_rating": "10",
+                "giants": "5",
+                "dragons": "8",
+                "necropolis": "5",
+                "toa": "10",
+                "toa_hm": "10",
+                "arena_offense": "9",
+                "arena_defense": "10",
+                "guildwar_offense": "9",
+                "guildwar_defense": "10",
+                "raid": "9",
+                "maze": null,
+                "user_name": "ronaldo",
+                "name": "ronaldo",
+                "avatar": "",
+                "contrib": "108"
+            },
+            {
+                "user_id": "18217",
+                "summon_id": "538",
+                "overall_rating": "8",
+                "giants": "6",
+                "dragons": "9",
+                "necropolis": "6",
+                "toa": "7",
+                "toa_hm": "6",
+                "arena_offense": "8",
+                "arena_defense": "8",
+                "guildwar_offense": "8",
+                "guildwar_defense": "8",
+                "raid": "9",
+                "maze": null,
+                "user_name": "TDC ProKill",
+                "name": "TDC ProKill",
+                "avatar": "",
+                "contrib": "5"
+            },
+            {
+                "user_id": "20940",
+                "summon_id": "538",
+                "overall_rating": "10",
+                "giants": "6",
+                "dragons": "10",
+                "necropolis": "6",
+                "toa": "7",
+                "toa_hm": "7",
+                "arena_offense": "7",
+                "arena_defense": "10",
+                "guildwar_offense": "7",
+                "guildwar_defense": "10",
+                "raid": "6",
+                "maze": null,
+                "user_name": "Lorris Bichet",
+                "name": "Lorris Bichet",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/20940//avatar.jpg",
+                "contrib": "88"
+            }
+        ],
+        "overall": {
+            "giants": 6,
+            "dragons": 8,
+            "necropolis": 5,
+            "toa": 7,
+            "toa_hm": 7,
+            "arena_offense": 8,
+            "arena_defense": 9,
+            "guildwar_offense": 8,
+            "guildwar_defense": 9,
+            "overall_rating": 7,
+            "raid": 9,
+            "categories": {
+                "dungeon": 7,
+                "toa": 7,
+                "arena": 9,
+                "gvg": 8
+            }
+        }
+    },
+    "users_favorite": [
+        {
+            "user_id": "15483",
+            "user_name": "Michael Ray Monson Madrid",
+            "avatar": null,
+            "contrib": "504"
+        },
+        {
+            "user_id": "5600",
+            "user_name": "Nallatir",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5600/chat_sniper.jpg",
+            "contrib": "148"
+        },
+        {
+            "user_id": "5399",
+            "user_name": "Atsh",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5399/1392553358-spectrum.jpg",
+            "contrib": "649"
+        },
+        {
+            "user_id": "4774",
+            "user_name": "Michael HUEBER",
+            "avatar": null,
+            "contrib": "649"
+        },
+        {
+            "user_id": "11503",
+            "user_name": "Christophe Burton",
+            "avatar": null,
+            "contrib": "476"
+        },
+        {
+            "user_id": "19287",
+            "user_name": "Nallatir Horion",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/19287/chat_sniper.jpg",
+            "contrib": "480"
+        },
+        {
+            "user_id": "9549",
+            "user_name": "Jeux Android",
+            "avatar": null,
+            "contrib": "960"
+        },
+        {
+            "user_id": "9985",
+            "user_name": "Gabriel3xo",
+            "avatar": null,
+            "contrib": "452"
+        },
+        {
+            "user_id": "19082",
+            "user_name": "Vagner Santiago",
+            "avatar": null,
+            "contrib": "120"
+        },
+        {
+            "user_id": "19117",
+            "user_name": "sebastien",
+            "avatar": null,
+            "contrib": "26"
+        },
+        {
+            "user_id": "3239",
+            "user_name": "Kuchiito",
+            "avatar": null,
+            "contrib": "74"
+        },
+        {
+            "user_id": "6489",
+            "user_name": "Mosca Dls",
+            "avatar": null,
+            "contrib": "33"
+        },
+        {
+            "user_id": "8948",
+            "user_name": "Thomas Cantaloube",
+            "avatar": null,
+            "contrib": "570"
+        },
+        {
+            "user_id": "18313",
+            "user_name": "Yzangar",
+            "avatar": null,
+            "contrib": "504"
+        },
+        {
+            "user_id": "19038",
+            "user_name": "Will",
+            "avatar": null,
+            "contrib": "418"
+        },
+        {
+            "user_id": "14619",
+            "user_name": "Marc",
+            "avatar": null,
+            "contrib": "602"
+        },
+        {
+            "user_id": "9659",
+            "user_name": "nimbuspower",
+            "avatar": null,
+            "contrib": "502"
+        },
+        {
+            "user_id": "19049",
+            "user_name": "Barristan",
+            "avatar": null,
+            "contrib": "70"
+        },
+        {
+            "user_id": "12366",
+            "user_name": "Luigi Agulini",
+            "avatar": null,
+            "contrib": "541"
+        },
+        {
+            "user_id": "12538",
+            "user_name": "PONCET Maxime",
+            "avatar": null,
+            "contrib": "25"
+        },
+        {
+            "user_id": "18765",
+            "user_name": "Bediar Zinedine",
+            "avatar": null,
+            "contrib": "474"
+        },
+        {
+            "user_id": "13044",
+            "user_name": "Davilon",
+            "avatar": null,
+            "contrib": "40"
+        },
+        {
+            "user_id": "13128",
+            "user_name": "Tsuko Wasabi",
+            "avatar": null,
+            "contrib": "152"
+        },
+        {
+            "user_id": "3127",
+            "user_name": "Froztiz",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/3127/15235762_801029230035598_1734365020181872960_o.jpg",
+            "contrib": "610"
+        },
+        {
+            "user_id": "19372",
+            "user_name": "Fei-San",
+            "avatar": null,
+            "contrib": "454"
+        },
+        {
+            "user_id": "9328",
+            "user_name": "Annick Marquis",
+            "avatar": null,
+            "contrib": "532"
+        },
+        {
+            "user_id": "13329",
+            "user_name": "Gwendal Bazin",
+            "avatar": null,
+            "contrib": "25"
+        },
+        {
+            "user_id": "13389",
+            "user_name": "Linsey Courteille",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/13389/index.jpg",
+            "contrib": "46"
+        },
+        {
+            "user_id": "16140",
+            "user_name": "Ludovic Ladam",
+            "avatar": null,
+            "contrib": "394"
+        },
+        {
+            "user_id": "13060",
+            "user_name": "Samisama",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/13060/icon-teshar.png",
+            "contrib": "438"
+        },
+        {
+            "user_id": "7223",
+            "user_name": "Adénor07",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+            "contrib": "921"
+        },
+        {
+            "user_id": "5340",
+            "user_name": "Yag",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5340/fsociety--1-.png",
+            "contrib": "516"
+        },
+        {
+            "user_id": "14423",
+            "user_name": "Faige",
+            "avatar": null,
+            "contrib": "130"
+        },
+        {
+            "user_id": "12294",
+            "user_name": "Waide",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/12294/vuevfu46[1].jpg",
+            "contrib": "340"
+        },
+        {
+            "user_id": "14353",
+            "user_name": "julien dou",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/14353/Sidesync_capture_20170424113810_1.jpg",
+            "contrib": "16"
+        },
+        {
+            "user_id": "14562",
+            "user_name": "Mazine",
+            "avatar": null,
+            "contrib": "42"
+        },
+        {
+            "user_id": "1501",
+            "user_name": "gaga33bx",
+            "avatar": null,
+            "contrib": "698"
+        },
+        {
+            "user_id": "14506",
+            "user_name": "bi0t0p",
+            "avatar": null,
+            "contrib": "89"
+        },
+        {
+            "user_id": "14717",
+            "user_name": "Matsuo",
+            "avatar": null,
+            "contrib": "636"
+        },
+        {
+            "user_id": "10399",
+            "user_name": "Cali",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/10399/6784492-cute-pink-unicorn.jpg",
+            "contrib": "533"
+        },
+        {
+            "user_id": "5873",
+            "user_name": "jaouen jaouen",
+            "avatar": null,
+            "contrib": "82"
+        },
+        {
+            "user_id": "14931",
+            "user_name": "Josh Eckard",
+            "avatar": null,
+            "contrib": "164"
+        },
+        {
+            "user_id": "11112",
+            "user_name": "kamel",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11112/goku_black_poster_by_fradayesmarkers-dalvjvw.jpg",
+            "contrib": "446"
+        },
+        {
+            "user_id": "11995",
+            "user_name": "XSTROMX1",
+            "avatar": null,
+            "contrib": "454"
+        },
+        {
+            "user_id": "12032",
+            "user_name": "Laurent Labonte",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/12032/Alien.jpg",
+            "contrib": "78"
+        },
+        {
+            "user_id": "6478",
+            "user_name": "Apowtf",
+            "avatar": null,
+            "contrib": "115"
+        },
+        {
+            "user_id": "12805",
+            "user_name": "Elouun",
+            "avatar": null,
+            "contrib": "144"
+        },
+        {
+            "user_id": "10268",
+            "user_name": "le-gros-jesus",
+            "avatar": null,
+            "contrib": "538"
+        },
+        {
+            "user_id": "14779",
+            "user_name": "Vinz",
+            "avatar": null,
+            "contrib": "474"
+        },
+        {
+            "user_id": "15570",
+            "user_name": "Romain Delanez",
+            "avatar": null,
+            "contrib": "460"
+        },
+        {
+            "user_id": "15543",
+            "user_name": "tepii13",
+            "avatar": null,
+            "contrib": "20"
+        },
+        {
+            "user_id": "14861",
+            "user_name": "Sorbexos",
+            "avatar": null,
+            "contrib": "410"
+        },
+        {
+            "user_id": "13208",
+            "user_name": "Rémi Hazdaï",
+            "avatar": null,
+            "contrib": "424"
+        },
+        {
+            "user_id": "14854",
+            "user_name": "Guillaume Mercadal",
+            "avatar": null,
+            "contrib": "405"
+        },
+        {
+            "user_id": "15688",
+            "user_name": "Cryptcho",
+            "avatar": null,
+            "contrib": "452"
+        },
+        {
+            "user_id": "5447",
+            "user_name": "André Moreno",
+            "avatar": null,
+            "contrib": "614"
+        },
+        {
+            "user_id": "14117",
+            "user_name": "RABAH SAADELLAH",
+            "avatar": null,
+            "contrib": "118"
+        },
+        {
+            "user_id": "17338",
+            "user_name": "Dijot",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/17338/HirumaSmile.png",
+            "contrib": "999"
+        },
+        {
+            "user_id": "16357",
+            "user_name": "ZxaosZ",
+            "avatar": null,
+            "contrib": "389"
+        },
+        {
+            "user_id": "11569",
+            "user_name": "Loïc Domin",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11569/aLMMpgg_460s.jpg",
+            "contrib": "535"
+        },
+        {
+            "user_id": "17333",
+            "user_name": "Sarah Play",
+            "avatar": null,
+            "contrib": "2"
+        },
+        {
+            "user_id": "17345",
+            "user_name": "ad_0__",
+            "avatar": null,
+            "contrib": "434"
+        },
+        {
+            "user_id": "16330",
+            "user_name": "Paolo Parea",
+            "avatar": null,
+            "contrib": "138"
+        },
+        {
+            "user_id": "8690",
+            "user_name": "Godbless",
+            "avatar": null,
+            "contrib": "446"
+        },
+        {
+            "user_id": "330",
+            "user_name": "Angelo_R_Ltd",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/330/FSCN1588square.jpg",
+            "contrib": "754"
+        },
+        {
+            "user_id": "17699",
+            "user_name": "Jokxy",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/17699/Capture.PNG",
+            "contrib": "25"
+        },
+        {
+            "user_id": "9705",
+            "user_name": "Titange57",
+            "avatar": null,
+            "contrib": "12"
+        },
+        {
+            "user_id": "13800",
+            "user_name": "da3droth",
+            "avatar": null,
+            "contrib": "582"
+        },
+        {
+            "user_id": "12172",
+            "user_name": "zmk",
+            "avatar": null,
+            "contrib": "674"
+        },
+        {
+            "user_id": "17887",
+            "user_name": "• R4LF •",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/17887//avatar.jpg",
+            "contrib": "632"
+        },
+        {
+            "user_id": "7551",
+            "user_name": "redlox",
+            "avatar": null,
+            "contrib": "34"
+        },
+        {
+            "user_id": "12506",
+            "user_name": "Marco Louis",
+            "avatar": null,
+            "contrib": "190"
+        },
+        {
+            "user_id": "18079",
+            "user_name": "Seralvalg Goörky",
+            "avatar": null,
+            "contrib": "47"
+        },
+        {
+            "user_id": "6279",
+            "user_name": "Darunya",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6279/SCRAT basse qualité.jpg",
+            "contrib": "490"
+        },
+        {
+            "user_id": "18160",
+            "user_name": "Martin Cédric",
+            "avatar": null,
+            "contrib": "432"
+        },
+        {
+            "user_id": "18189",
+            "user_name": "Shercko",
+            "avatar": null,
+            "contrib": "575"
+        },
+        {
+            "user_id": "18258",
+            "user_name": "Thomas Fischer",
+            "avatar": null,
+            "contrib": "446"
+        },
+        {
+            "user_id": "18345",
+            "user_name": "Thesteag",
+            "avatar": null,
+            "contrib": "376"
+        },
+        {
+            "user_id": "19733",
+            "user_name": "TBZ_TriB",
+            "avatar": null,
+            "contrib": "478"
+        },
+        {
+            "user_id": "19739",
+            "user_name": "Luiigi Neùuf Ciinq",
+            "avatar": null,
+            "contrib": "100"
+        },
+        {
+            "user_id": "20046",
+            "user_name": "Sovannarith Chin",
+            "avatar": null,
+            "contrib": "392"
+        },
+        {
+            "user_id": "20640",
+            "user_name": "Tommy Kung",
+            "avatar": null,
+            "contrib": "520"
+        },
+        {
+            "user_id": "13662",
+            "user_name": "Doragonghoul",
+            "avatar": null,
+            "contrib": "452"
+        },
+        {
+            "user_id": "19842",
+            "user_name": "Peggy Grimalt",
+            "avatar": null,
+            "contrib": "472"
+        },
+        {
+            "user_id": "19898",
+            "user_name": "Pete Supertramp",
+            "avatar": null,
+            "contrib": "59"
+        },
+        {
+            "user_id": "20054",
+            "user_name": "Ghost4Ryder",
+            "avatar": null,
+            "contrib": "428"
+        },
+        {
+            "user_id": "20053",
+            "user_name": "Jaozara",
+            "avatar": null,
+            "contrib": "70"
+        },
+        {
+            "user_id": "20448",
+            "user_name": "Vlad-XCI",
+            "avatar": null,
+            "contrib": "464"
+        },
+        {
+            "user_id": "20174",
+            "user_name": "Max Bouyer",
+            "avatar": null,
+            "contrib": "512"
+        },
+        {
+            "user_id": "20175",
+            "user_name": "Rod Artheon",
+            "avatar": null,
+            "contrib": "398"
+        },
+        {
+            "user_id": "20251",
+            "user_name": "Talnor",
+            "avatar": null,
+            "contrib": "504"
+        },
+        {
+            "user_id": "15563",
+            "user_name": "Anthony Ybessa",
+            "avatar": null,
+            "contrib": "390"
+        },
+        {
+            "user_id": "9699",
+            "user_name": "Ludovica Meis",
+            "avatar": null,
+            "contrib": "166"
+        },
+        {
+            "user_id": "11986",
+            "user_name": "Nick DerDuNichtBist",
+            "avatar": null,
+            "contrib": "991"
+        },
+        {
+            "user_id": "2529",
+            "user_name": "Franck Schwabe",
+            "avatar": null,
+            "contrib": "95"
+        },
+        {
+            "user_id": "20743",
+            "user_name": "Wissem Bourdjou",
+            "avatar": null,
+            "contrib": "440"
+        },
+        {
+            "user_id": "20783",
+            "user_name": "Stephane Reynes",
+            "avatar": null,
+            "contrib": "4"
+        },
+        {
+            "user_id": "14833",
+            "user_name": "Yaz",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/14833/03.jpg",
+            "contrib": "489"
+        },
+        {
+            "user_id": "20940",
+            "user_name": "Lorris Bichet",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/20940//avatar.jpg",
+            "contrib": "88"
+        },
+        {
+            "user_id": "5560",
+            "user_name": "Olivier Roussat",
+            "avatar": null,
+            "contrib": "515"
+        },
+        {
+            "user_id": "21214",
+            "user_name": "Olivier Roussat",
+            "avatar": null,
+            "contrib": "164"
+        },
+        {
+            "user_id": "21291",
+            "user_name": "kevin gales",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/21291//avatar.jpg",
+            "contrib": "10"
+        },
+        {
+            "user_id": "20334",
+            "user_name": "Laurent Quelennec",
+            "avatar": null,
+            "contrib": "578"
+        },
+        {
+            "user_id": "14408",
+            "user_name": "DeathDemøn",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/14408/17cce494-1ee1-dd18-599b-0f8eb64a0bf8.jpg",
+            "contrib": "972"
+        },
+        {
+            "user_id": "21589",
+            "user_name": "Nicolas Goldenberg",
+            "avatar": null,
+            "contrib": "482"
+        },
+        {
+            "user_id": "20205",
+            "user_name": "Mounir Kh",
+            "avatar": null,
+            "contrib": "438"
+        },
+        {
+            "user_id": "21418",
+            "user_name": "Gatito Marley",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/21418//avatar.jpg",
+            "contrib": "77"
+        },
+        {
+            "user_id": "17304",
+            "user_name": "loc2807",
+            "avatar": null,
+            "contrib": "446"
+        },
+        {
+            "user_id": "18491",
+            "user_name": "Keito95",
+            "avatar": null,
+            "contrib": "428"
+        },
+        {
+            "user_id": "21954",
+            "user_name": "Christopher Koehler",
+            "avatar": null,
+            "contrib": "511"
+        },
+        {
+            "user_id": "21973",
+            "user_name": "FL-Diva",
+            "avatar": null,
+            "contrib": "478"
+        },
+        {
+            "user_id": "22049",
+            "user_name": "Antoine Gasnier",
+            "avatar": null,
+            "contrib": "450"
+        },
+        {
+            "user_id": "22093",
+            "user_name": "Elodie Neko",
+            "avatar": null,
+            "contrib": "10"
+        },
+        {
+            "user_id": "13826",
+            "user_name": "gwcerbere",
+            "avatar": null,
+            "contrib": "674"
+        },
+        {
+            "user_id": "2639",
+            "user_name": "Itanael",
+            "avatar": null,
+            "contrib": "174"
+        },
+        {
+            "user_id": "20746",
+            "user_name": "Tony Flejeo",
+            "avatar": null,
+            "contrib": "630"
+        },
+        {
+            "user_id": "22377",
+            "user_name": "Alexander Luna",
+            "avatar": null,
+            "contrib": "2"
+        },
+        {
+            "user_id": "22407",
+            "user_name": "Jonathan Hochstrasser",
+            "avatar": null,
+            "contrib": "6"
+        },
+        {
+            "user_id": "22358",
+            "user_name": "Shotgun",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "22605",
+            "user_name": "Rémy Turpin",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "9636",
+            "user_name": "Feitte",
+            "avatar": null,
+            "contrib": "609"
+        },
+        {
+            "user_id": "22872",
+            "user_name": "Emin Ck",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "23012",
+            "user_name": "Theo Guerin",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "23159",
+            "user_name": "David Boulais",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "11936",
+            "user_name": "Gaerk",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11936/Figure_5.jpg",
+            "contrib": "453"
+        },
+        {
+            "user_id": "14941",
+            "user_name": "Franck TABARLY",
+            "avatar": null,
+            "contrib": "550"
+        },
+        {
+            "user_id": "13648",
+            "user_name": "Chocalie",
+            "avatar": null,
+            "contrib": "46"
+        },
+        {
+            "user_id": "24032",
+            "user_name": "Inaki Melchor",
+            "avatar": null,
+            "contrib": "28"
+        },
+        {
+            "user_id": "24233",
+            "user_name": "Jean-Baptiste",
+            "avatar": null,
+            "contrib": "390"
+        },
+        {
+            "user_id": "22073",
+            "user_name": "Ferdy Alt",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "24055",
+            "user_name": "Alban gauthier",
+            "avatar": null,
+            "contrib": "428"
+        },
+        {
+            "user_id": "24399",
+            "user_name": "Paul M. Crocker",
+            "avatar": null,
+            "contrib": "652"
+        },
+        {
+            "user_id": "1885",
+            "user_name": "Massa38",
+            "avatar": null,
+            "contrib": "1022"
+        },
+        {
+            "user_id": "24692",
+            "user_name": "Randy Guillemot",
+            "avatar": null,
+            "contrib": "50"
+        },
+        {
+            "user_id": "24635",
+            "user_name": "Scaxo",
+            "avatar": null,
+            "contrib": "494"
+        },
+        {
+            "user_id": "6025",
+            "user_name": "Spice Chips",
+            "avatar": null,
+            "contrib": "667"
+        },
+        {
+            "user_id": "13143",
+            "user_name": "Améthiyste",
+            "avatar": null,
+            "contrib": "267"
+        },
+        {
+            "user_id": "12746",
+            "user_name": "oUI ONON",
+            "avatar": null,
+            "contrib": "496"
+        },
+        {
+            "user_id": "25714",
+            "user_name": "Mickael Riou",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "25605",
+            "user_name": "ucemaras",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "25903",
+            "user_name": "Martin Gaming",
+            "avatar": null,
+            "contrib": "0"
+        }
+    ],
+    "awakenings": [
+        {
+            "summon_id": 538,
+            "attribute_id": 3,
+            "size": "HIGH",
+            "quantity": 20,
+            "attribute": {
+                "id": 3,
+                "tid": "WATER"
+            }
+        },
+        {
+            "summon_id": 538,
+            "attribute_id": 3,
+            "size": "MID",
+            "quantity": 10,
+            "attribute": {
+                "id": 3,
+                "tid": "WATER"
+            }
+        },
+        {
+            "summon_id": 538,
+            "attribute_id": 6,
+            "size": "HIGH",
+            "quantity": 15,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        },
+        {
+            "summon_id": 538,
+            "attribute_id": 6,
+            "size": "MID",
+            "quantity": 5,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "id": 27584,
+            "translate_id": "AMELIA.ICE_HORN_(HUMAN_FORM)",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.ice_horn_(human_form).jpg",
+            "modifier": "400%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN_(HUMAN_FORM)",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Ice Horn (Human Form)"
+                }
+            ],
+            "name": "Ice Horn (Human Form)",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN_(HUMAN_FORM)",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Attacks the enemy and Freezes the target for 1 turn with a 25% chance."
+                }
+            ],
+            "desc": "Attacks the enemy and Freezes the target for 1 turn with a 25% chance.",
+            "evolve_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN_(HUMAN_FORM)",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+                }
+            ],
+            "evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+        },
+        {
+            "id": 27585,
+            "translate_id": "AMELIA.PURIFYING_WAVE",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.purifying_wave.jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.PURIFYING_WAVE",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Purifying Wave"
+                }
+            ],
+            "name": "Purifying Wave",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.PURIFYING_WAVE",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Removes the harmful effects on all allies and increases their Defense for 2 turns. (Reusable in 5 turns)"
+                }
+            ],
+            "desc": "Removes the harmful effects on all allies and increases their Defense for 2 turns. (Reusable in 5 turns)",
+            "evolve_translates": [
+                {
+                    "id": "AMELIA.PURIFYING_WAVE",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +5%<br/>Lv.3 Damage +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +10%<br/>Lv.6 Cooltime Turn -1<br/>Lv.7 Cooltime Turn -1"
+                }
+            ],
+            "evolve": "Lv.2 Damage +5%<br/>Lv.3 Damage +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +10%<br/>Lv.6 Cooltime Turn -1<br/>Lv.7 Cooltime Turn -1"
+        },
+        {
+            "id": 27587,
+            "translate_id": "AMELIA.TRANSFORMATION_MYSTICAL_CREATURE",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.transformation_mystical_creature.jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.TRANSFORMATION_MYSTICAL_CREATURE",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Transformation: Mystical Creature"
+                }
+            ],
+            "name": "Transformation: Mystical Creature",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.TRANSFORMATION_MYSTICAL_CREATURE",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Turns back into the Mystical Creature. Instantly gains another turn, afterwards. (Reusable in 2 turns)"
+                }
+            ],
+            "desc": "Turns back into the Mystical Creature. Instantly gains another turn, afterwards. (Reusable in 2 turns)"
+        },
+        {
+            "id": 27583,
+            "translate_id": "AMELIA.TRANSFORMATION_HUMAN_FORM",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.transformation_human_form.jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.TRANSFORMATION_HUMAN_FORM",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Transformation: Human Form"
+                }
+            ],
+            "name": "Transformation: Human Form",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.TRANSFORMATION_HUMAN_FORM",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Transforms into a Human Form and you'll be able to use a new skill. The Attack Speed will be increased proportionate to your MAX HP in Human Form, but your MAX HP will be decreased by 30%. Instantly gains another turn after the transformation. (Reusable in 2 turns)"
+                }
+            ],
+            "desc": "Transforms into a Human Form and you'll be able to use a new skill. The Attack Speed will be increased proportionate to your MAX HP in Human Form, but your MAX HP will be decreased by 30%. Instantly gains another turn after the transformation. (Reusable in 2 turns)"
+        },
+        {
+            "id": 27581,
+            "translate_id": "AMELIA.FIERCE_CHARGE",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.fierce_charge.jpg",
+            "modifier": "300%+20%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.FIERCE_CHARGE",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Fierce Charge"
+                }
+            ],
+            "name": "Fierce Charge",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.FIERCE_CHARGE",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Attacks the enemy to Provoke for 1 turn with a 75% chance and counterattacks the enemy for 2 turns whenever you're attacked. The damage increases accordingly to your MAX HP. (Reusable in 5 turns)"
+                }
+            ],
+            "desc": "Attacks the enemy to Provoke for 1 turn with a 75% chance and counterattacks the enemy for 2 turns whenever you're attacked. The damage increases accordingly to your MAX HP. (Reusable in 5 turns)",
+            "evolve_translates": [
+                {
+                    "id": "AMELIA.FIERCE_CHARGE",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +5%<br/>Lv.3 Damage +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +10%<br/>Lv.6 Cooltime Turn -1<br/>Lv.7 Cooltime Turn -1"
+                }
+            ],
+            "evolve": "Lv.2 Damage +5%<br/>Lv.3 Damage +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +10%<br/>Lv.6 Cooltime Turn -1<br/>Lv.7 Cooltime Turn -1"
+        },
+        {
+            "id": 27580,
+            "translate_id": "AMELIA.ICE_HORN",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.ice_horn.jpg",
+            "modifier": "180%+12%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Ice Horn"
+                }
+            ],
+            "name": "Ice Horn",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Attacks the enemy and Freezes the target for 1 turn with a 25% chance. This attack will deal more damage increases according to your MAX HP."
+                }
+            ],
+            "desc": "Attacks the enemy and Freezes the target for 1 turn with a 25% chance. This attack will deal more damage increases according to your MAX HP.",
+            "evolve_translates": [
+                {
+                    "id": "AMELIA.ICE_HORN",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+                }
+            ],
+            "evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+        },
+        {
+            "id": 27582,
+            "translate_id": "AMELIA.PROTECTION_WINGS_(PASSIVE)",
+            "type": "PASSIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.protection_wings_(passive).jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.PROTECTION_WINGS_(PASSIVE)",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Protection Wings (Passive)"
+                }
+            ],
+            "name": "Protection Wings (Passive)",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.PROTECTION_WINGS_(PASSIVE)",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Increases Defense for 2 turns when you're attacked by an enemy. This effect only activates once a turn. [Automatic Effect]"
+                }
+            ],
+            "desc": "Increases Defense for 2 turns when you're attacked by an enemy. This effect only activates once a turn. [Automatic Effect]"
+        },
+        {
+            "id": 27586,
+            "translate_id": "AMELIA.BLESSED_WINGS_(PASSIVE)",
+            "type": "PASSIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amelia.blessed_wings_(passive).jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMELIA.BLESSED_WINGS_(PASSIVE)",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Blessed Wings (Passive)"
+                }
+            ],
+            "name": "Blessed Wings (Passive)",
+            "desc_translates": [
+                {
+                    "id": "AMELIA.BLESSED_WINGS_(PASSIVE)",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Grants Immunity on all allies for 1 turn every turn. [Automatic Effect]"
+                }
+            ],
+            "desc": "Grants Immunity on all allies for 1 turn every turn. [Automatic Effect]"
+        }
+    ],
+    "stats": [
+        {
+            "summon_id": 538,
+            "grade": 5,
+            "level": 1,
+            "awakened": 0,
+            "atk": 261,
+            "hp": 4770,
+            "def": 276,
+            "spd": 99,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 5,
+            "level": 1,
+            "awakened": 1,
+            "atk": 276,
+            "hp": 5340,
+            "def": 295,
+            "spd": 100,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 5,
+            "level": 35,
+            "awakened": 0,
+            "atk": 444,
+            "hp": 8115,
+            "def": 468,
+            "spd": 99,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 5,
+            "level": 35,
+            "awakened": 1,
+            "atk": 468,
+            "hp": 9075,
+            "def": 500,
+            "spd": 100,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 6,
+            "level": 1,
+            "awakened": 0,
+            "atk": 355,
+            "hp": 6495,
+            "def": 375,
+            "spd": 99,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 6,
+            "level": 1,
+            "awakened": 1,
+            "atk": 375,
+            "hp": 7260,
+            "def": 400,
+            "spd": 100,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 6,
+            "level": 40,
+            "awakened": 0,
+            "atk": 604,
+            "hp": 11040,
+            "def": 637,
+            "spd": 100,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 538,
+            "grade": 6,
+            "level": 40,
+            "awakened": 1,
+            "atk": 637,
+            "hp": 12345,
+            "def": 681,
+            "spd": 100,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        }
+    ],
+    "statsfix": {
+        "0": {
+            "spd": "99",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        },
+        "1": {
+            "spd": "100",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        }
+    },
+    "same_as": [
+        {
+            "id": 541,
+            "name": "Alexandra",
+            "name_translation": {
+                "EN": "Alexandra"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-alexandra.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-alexandra.png",
+            "grade": 5,
+            "last_update_ts": "1587632718",
+            "type_id": 98,
+            "type": {
+                "tid": "UNICORN"
+            },
+            "attribute_id": 5,
+            "attribute": {
+                "tid": "DARK"
+            },
+            "class_id": 4,
+            "class": {
+                "tid": "HP"
+            },
+            "reviews_summary": {
+                "food": {
+                    "count": 1,
+                    "percent": 50
+                },
+                "keep": {
+                    "count": 1,
+                    "percent": 50
+                },
+                "five_stars": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "six_stars": {
+                    "count": 1,
+                    "percent": 50
+                }
+            }
+        },
+        {
+            "id": 540,
+            "name": "Eleanor",
+            "name_translation": {
+                "EN": "Eleanor"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-eleanor.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-eleanor.png",
+            "grade": 5,
+            "last_update_ts": "1587632720",
+            "type_id": 98,
+            "type": {
+                "tid": "UNICORN"
+            },
+            "attribute_id": 4,
+            "attribute": {
+                "tid": "LIGHT"
+            },
+            "class_id": 4,
+            "class": {
+                "tid": "HP"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 539,
+            "name": "Diana",
+            "name_translation": {
+                "EN": "Diana"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-diana.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-diana.png",
+            "grade": 5,
+            "last_update_ts": "1587632724",
+            "type_id": 98,
+            "type": {
+                "tid": "UNICORN"
+            },
+            "attribute_id": 1,
+            "attribute": {
+                "tid": "WIND"
+            },
+            "class_id": 4,
+            "class": {
+                "tid": "HP"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 537,
+            "name": "Helena",
+            "name_translation": {
+                "EN": "Helena"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-helena.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-helena.png",
+            "grade": 5,
+            "last_update_ts": "1587632726",
+            "type_id": 98,
+            "type": {
+                "tid": "UNICORN"
+            },
+            "attribute_id": 2,
+            "attribute": {
+                "tid": "FIRE"
+            },
+            "class_id": 4,
+            "class": {
+                "tid": "HP"
+            },
+            "reviews_summary": null
+        }
+    ],
+    "runes": [
+        {
+            "build": {
+                "id": 4,
+                "name": "Tank / Immu / Protec",
+                "comment": "<p>Elle immune, boost def, freeze, bref elle défend mieux qu'un Géant antique!!</p>",
+                "usages": 9,
+                "user_id": 9369,
+                "validated": 1,
+                "like": 4,
+                "like_by": "ronaldo / Yoann Ollivier / Jonathan Hochstrasser / Bronson Hebert",
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2017-07-18 10:05:03",
+                "create_date_ts": 1500365103,
+                "author": {
+                    "id": 9369,
+                    "name": "ronaldo",
+                    "title": null,
+                    "know_more": null,
+                    "avatar": "",
+                    "contrib": 108,
+                    "langcode": "FR",
+                    "permissions": {
+                        "logged": true
+                    }
+                },
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 4,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 12,
+                    "set": {
+                        "id": 12,
+                        "tid": "WILL",
+                        "nb_req": 2,
+                        "location_id": 10,
+                        "location": {
+                            "id": 10,
+                            "tid": "AIDEN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 12,
+                    "set": {
+                        "id": 12,
+                        "tid": "WILL",
+                        "nb_req": 2,
+                        "location_id": 10,
+                        "location": {
+                            "id": 10,
+                            "tid": "AIDEN_FOREST"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "VIOLENT",
+                    "4": "WILL"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "WILL"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "WILL"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 2,
+                "name": "Hobejo",
+                "comment": "Runage BL, de la rapidité pour plus d'invulnérabilité en forme humaine",
+                "usages": 14,
+                "user_id": 13228,
+                "validated": 1,
+                "like": 2,
+                "like_by": "ronaldo / KamiTaizai",
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2017-04-29 16:40:49",
+                "create_date_ts": 1493476849,
+                "author": {
+                    "id": 13228,
+                    "name": "Rep Lex",
+                    "title": null,
+                    "know_more": null,
+                    "avatar": "",
+                    "contrib": 5,
+                    "langcode": "FR",
+                    "permissions": {
+                        "logged": true
+                    }
+                },
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 2,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "ENERGY",
+                    "2": "SWIFT"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "SWIFT"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 3,
+                "name": "Speed PVP",
+                "comment": "<p>le set rapide pour un max de vitesse et un set will pour tanker le premier tour en arène / arène world.</p><p>VIT/PV/PV avec substats vitesse, PV, déf, précision et résistance pour avoir une licorne très rapide, très tanky et qui peux freeze et provok les adversaires</p>",
+                "usages": 5,
+                "user_id": 7223,
+                "validated": 1,
+                "like": 1,
+                "like_by": "ronaldo",
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2017-06-16 14:35:40",
+                "create_date_ts": 1497616540,
+                "author": {
+                    "id": 7223,
+                    "name": "Adénor07",
+                    "title": null,
+                    "know_more": null,
+                    "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                    "contrib": 921,
+                    "langcode": "FR",
+                    "permissions": {
+                        "logged": true
+                    }
+                },
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 3,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 12,
+                    "set": {
+                        "id": 12,
+                        "tid": "WILL",
+                        "nb_req": 2,
+                        "location_id": 10,
+                        "location": {
+                            "id": 10,
+                            "tid": "AIDEN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 12,
+                    "set": {
+                        "id": 12,
+                        "tid": "WILL",
+                        "nb_req": 2,
+                        "location_id": 10,
+                        "location": {
+                            "id": 10,
+                            "tid": "AIDEN_FOREST"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "SWIFT",
+                    "4": "WILL"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "WILL"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "WILL"
+                    }
+                ]
+            }
+        }
+    ],
+    "comments": [
+        {
+            "id": 2947,
+            "parent_id": null,
+            "summon_id": 538,
+            "user_id": 7223,
+            "title": "DB10",
+            "comment": "Vu ses stats et ses passifs, est-ce que cette demoiselle ne pourrait pas être carrément dingue en DB10??",
+            "langcode": "FR",
+            "last_update": "2017-05-11 11:18:12",
+            "last_update_ts": "1494494292000",
+            "author": {
+                "id": 7223,
+                "name": "Adénor07",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                "contrib": 921,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "like": {
+                "nb": 0,
+                "user_id": [],
+                "by": ""
+            },
+            "responses": [
+                {
+                    "id": 2948,
+                    "parent_id": 2947,
+                    "summon_id": 538,
+                    "user_id": 3239,
+                    "title": "Amelia db10",
+                    "comment": "C'est bien le cas, l'ia en dragon fait que elle reste tout le temps en humain pour mettre l'immunité /cleanse/buff def, sauf quand elle est low en vie elle repassera en poney pour survivre",
+                    "langcode": "FR",
+                    "last_update": "2017-05-11 11:57:33",
+                    "last_update_ts": "1494496653000",
+                    "author": {
+                        "id": 3239,
+                        "name": "Kuchiito",
+                        "title": null,
+                        "know_more": null,
+                        "avatar": "",
+                        "contrib": 74,
+                        "langcode": "FR",
+                        "permissions": {
+                            "logged": true
+                        }
+                    },
+                    "like": {
+                        "nb": 0,
+                        "user_id": [],
+                        "by": ""
+                    },
+                    "responses": [
+                        {
+                            "id": 3102,
+                            "parent_id": 2948,
+                            "summon_id": 538,
+                            "user_id": 7223,
+                            "title": "Re: \"Amelia db10\"",
+                            "comment": "Avec un runage qui commence à être intéressant (36k PV, 213 spd, 1,1k def) en swift will, la team DB10 est plus que safe, 100% une fois skill up max.<br>sans arrêt sous immunité, et souvent avec le buff défense, zairos ne pose plus aucun souci.<br>Plus aucun fail avec la team vero bella chasun théomars amélia.",
+                            "langcode": "FR",
+                            "last_update": "2017-07-11 13:57:36",
+                            "last_update_ts": "1499774256000",
+                            "author": {
+                                "id": 7223,
+                                "name": "Adénor07",
+                                "title": null,
+                                "know_more": null,
+                                "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                                "contrib": 921,
+                                "langcode": "FR",
+                                "permissions": {
+                                    "logged": true
+                                }
+                            },
+                            "like": {
+                                "nb": 0,
+                                "user_id": [],
+                                "by": ""
+                            },
+                            "responses": [
+                                {
+                                    "id": 3110,
+                                    "parent_id": 3102,
+                                    "summon_id": 538,
+                                    "user_id": 9369,
+                                    "title": "Re: \"Amelia db10\"",
+                                    "comment": "<p>Ma team c'est verde bella vero laima baretta en 3' et toi avec Amelia tu es a cb? ca m'intéresse car je l'ai également.</p><p><br></p>",
+                                    "langcode": "FR",
+                                    "last_update": "2017-07-12 11:38:35",
+                                    "last_update_ts": "1499852315000",
+                                    "author": {
+                                        "id": 9369,
+                                        "name": "ronaldo",
+                                        "title": null,
+                                        "know_more": null,
+                                        "avatar": "",
+                                        "contrib": 108,
+                                        "langcode": "FR",
+                                        "permissions": {
+                                            "logged": true
+                                        }
+                                    },
+                                    "like": {
+                                        "nb": 0,
+                                        "user_id": [],
+                                        "by": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "all_comments": [
+        {
+            "date": "1494494292000"
+        },
+        {
+            "date": "1494496653000"
+        },
+        {
+            "date": "1499774256000"
+        },
+        {
+            "date": "1499852315000"
+        }
+    ],
+    "location": [
+        {
+            "summon_id": 538,
+            "location_id": 100,
+            "tid": "MYSTIC_SCROLL"
+        },
+        {
+            "summon_id": 538,
+            "location_id": 106,
+            "tid": "WATER_SCROLL"
+        },
+        {
+            "summon_id": 538,
+            "location_id": 108,
+            "tid": "LEGENDARY_SCROLL"
+        },
+        {
+            "summon_id": 538,
+            "location_id": 111,
+            "tid": "TEMPLE_OF_WISHES"
+        }
+    ],
+    "radar": {
+        "summon": {
+            "atk": 0.94,
+            "hp": 1.25,
+            "def": 1.16,
+            "spd": 0.97,
+            "acc": 0,
+            "res": 0.88,
+            "crit_rate": 0.88,
+            "crit_dmg": 1,
+            "total": 4.32
+        },
+        "max": {
+            "atk": 1.62,
+            "hp": 1.55,
+            "def": 1.5,
+            "spd": 1.22,
+            "acc": 8.33,
+            "res": 2.35,
+            "crit_rate": 1.76,
+            "crit_dmg": 1
+        }
+    },
+    "rank_stats": {
+        "atk": "587",
+        "hp": "26",
+        "def": "97",
+        "spd": "4014",
+        "crit_rate": "752",
+        "crit_dmg": "344",
+        "res": "652",
+        "acc": "688"
+    },
+    "teams": [
+        {
+            "id": 5526,
+            "user_id": 10953,
+            "name": "Équipe auto db10 3-4min",
+            "comment": "Team tanky db10",
+            "type": "DUNGEON",
+            "subtype": "DRAGON",
+            "members": [
+                {
+                    "id": 426,
+                    "name": "Veromos",
+                    "name_translation": {
+                        "EN": "Veromos"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-veromos.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-veromos.png",
+                    "grade": 5,
+                    "last_update_ts": "1591830314",
+                    "type_id": 71,
+                    "type": {
+                        "tid": "IFRIT"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": null,
+                        "dragons": null,
+                        "necropolis": null,
+                        "toa": null,
+                        "toa_hm": null,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": null,
+                        "guildwar_defense": null,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "arena": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_defense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 9,
+                            "necropolis": 5,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 238,
+                    "name": "Taor",
+                    "name_translation": {
+                        "EN": "Taor"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-taor.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-taor.png",
+                    "grade": 5,
+                    "last_update_ts": "1589758250",
+                    "type_id": 7,
+                    "type": {
+                        "tid": "CHIMERA"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 10,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 10,
+                        "arena_defense": 2,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 9,
+                            "toa": 2,
+                            "arena": 6,
+                            "gvg": 8,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 9,
+                            "necropolis": 4,
+                            "toa": 8,
+                            "toa_hm": 6,
+                            "arena_offense": 10,
+                            "arena_defense": 7,
+                            "guildwar_offense": 10,
+                            "guildwar_defense": 7,
+                            "overall_rating": 10,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 8,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 10
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 235,
+                    "name": "Praha",
+                    "name_translation": {
+                        "EN": "Praha"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-praha.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-praha.png",
+                    "grade": 5,
+                    "last_update_ts": "1590363092",
+                    "type_id": 39,
+                    "type": {
+                        "tid": "ORACLE"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 6,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 4,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 8,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 6,
+                            "toa": 4,
+                            "arena": 9,
+                            "gvg": 8,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_defense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 8,
+                            "dragons": 7,
+                            "necropolis": 8,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 8,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 386,
+                    "name": "Chasun",
+                    "name_translation": {
+                        "EN": "Chasun"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-chasun.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-chasun.png",
+                    "grade": 4,
+                    "last_update_ts": "1591311913",
+                    "type_id": 68,
+                    "type": {
+                        "tid": "SKY_DANCER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 6,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 10,
+                            "arena": 9,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 8,
+                            "necropolis": 7,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 9,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 426,
+            "last_update": "2017-07-26 17:30:44",
+            "last_update_ts": "1501083044000",
+            "members_ids": "426,538,238,235,386",
+            "author": {
+                "id": 10953,
+                "name": "MiniBboy92",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 509,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true,
+                    "donator": true
+                },
+                "groups": [
+                    {
+                        "id": 3,
+                        "name": "PRO",
+                        "name_tid": "USER_DONATOR",
+                        "description": "SW-DB Pro version",
+                        "label": {
+                            "name": "PRO",
+                            "color": "royal"
+                        }
+                    }
+                ]
+            },
+            "views": {
+                "count": 87,
+                "last_view": "2020-04-24 21:53:40",
+                "last_view_ts": "1587758020"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 5810,
+            "user_id": 7223,
+            "name": "New DB10 Team ultra safe",
+            "comment": "<p>100% de réussite avec cette team, pour un temps moyen de 02:30</p>",
+            "type": "DUNGEON",
+            "subtype": "DRAGON",
+            "members": [
+                {
+                    "id": 237,
+                    "name": "Sigmarus",
+                    "name_translation": {
+                        "EN": "Sigmarus"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-sigmarus.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-sigmarus.png",
+                    "grade": 5,
+                    "last_update_ts": "1589758248",
+                    "type_id": 41,
+                    "type": {
+                        "tid": "PHOENIX"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 8,
+                        "dragons": 10,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 6,
+                        "arena_defense": 2,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 8,
+                            "arena": 4,
+                            "gvg": 7,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "dragons",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 10,
+                            "necropolis": 2,
+                            "toa": 6,
+                            "toa_hm": 4,
+                            "arena_offense": 8,
+                            "arena_defense": 3,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 3,
+                            "overall_rating": 8,
+                            "raid": 4,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 5,
+                                "arena": 6,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 195,
+                    "name": "Rakan",
+                    "name_translation": {
+                        "EN": "Rakan"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-rakan.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-rakan.png",
+                    "grade": 5,
+                    "last_update_ts": "1591311907",
+                    "type_id": 7,
+                    "type": {
+                        "tid": "CHIMERA"
+                    },
+                    "attribute_id": 2,
+                    "attribute": {
+                        "tid": "FIRE"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 4,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 6,
+                            "gvg": 8,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 4,
+                            "dragons": 8,
+                            "necropolis": 3,
+                            "toa": 5,
+                            "toa_hm": 4,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 10,
+                            "guildwar_defense": 9,
+                            "overall_rating": 8,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 5,
+                                "arena": 9,
+                                "gvg": 10
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 346,
+                    "name": "Beth",
+                    "name_translation": {
+                        "EN": "Beth"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-beth.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-beth.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632327",
+                    "type_id": 63,
+                    "type": {
+                        "tid": "HELL_LADY"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 4,
+                        "dragons": 6,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 8,
+                        "arena_defense": 6,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 4,
+                            "toa": 2,
+                            "arena": 7,
+                            "gvg": 7,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_offense",
+                        "value": 8,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 8,
+                            "dragons": 8,
+                            "necropolis": 6,
+                            "toa": 8,
+                            "toa_hm": 6,
+                            "arena_offense": 10,
+                            "arena_defense": 7,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 6,
+                            "overall_rating": 8,
+                            "raid": 7,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 139,
+                    "name": "Belladeon",
+                    "name_translation": {
+                        "EN": "Belladeon"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-belladeon.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-belladeon.png",
+                    "grade": 3,
+                    "last_update_ts": "1592177472",
+                    "type_id": 26,
+                    "type": {
+                        "tid": "INUGAMI"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 3,
+                    "class": {
+                        "tid": "DEFENSE"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 10,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 6,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 8,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 9,
+                            "toa": 8,
+                            "arena": 8,
+                            "gvg": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 10,
+                            "necropolis": 8,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 9,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 237,
+            "last_update": "2017-11-07 11:45:16",
+            "last_update_ts": "1510051516000",
+            "members_ids": "237,195,538,346,139",
+            "author": {
+                "id": 7223,
+                "name": "Adénor07",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                "contrib": 921,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 113,
+                "last_view": "2020-05-27 17:23:14",
+                "last_view_ts": "1590592994"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 5691,
+            "user_id": 14854,
+            "name": "DB10 100% winrate ",
+            "comment": "<p>DB10 100% focus boss the run are slow but are working so</p>",
+            "type": "DUNGEON",
+            "subtype": null,
+            "members": [
+                {
+                    "id": 426,
+                    "name": "Veromos",
+                    "name_translation": {
+                        "EN": "Veromos"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-veromos.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-veromos.png",
+                    "grade": 5,
+                    "last_update_ts": "1591830314",
+                    "type_id": 71,
+                    "type": {
+                        "tid": "IFRIT"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": null,
+                        "dragons": null,
+                        "necropolis": null,
+                        "toa": null,
+                        "toa_hm": null,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": null,
+                        "guildwar_defense": null,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "arena": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_defense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 9,
+                            "necropolis": 5,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 501,
+                    "name": "Chilling",
+                    "name_translation": {
+                        "FR": "Refroidissement",
+                        "EN": "Chilling"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-chilling.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-chilling.png",
+                    "grade": 4,
+                    "last_update_ts": "1590967852",
+                    "type_id": 90,
+                    "type": {
+                        "tid": "JACK_O_LANTERN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 8,
+                            "dragons": 10,
+                            "necropolis": 9,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 8,
+                            "arena_defense": 7,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 6,
+                            "maze": 5,
+                            "categories": {
+                                "dungeon": 8,
+                                "toa": 7,
+                                "arena": 8,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 386,
+                    "name": "Chasun",
+                    "name_translation": {
+                        "EN": "Chasun"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-chasun.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-chasun.png",
+                    "grade": 4,
+                    "last_update_ts": "1591311913",
+                    "type_id": 68,
+                    "type": {
+                        "tid": "SKY_DANCER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 6,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 10,
+                            "arena": 9,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 8,
+                            "necropolis": 7,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 9,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 139,
+                    "name": "Belladeon",
+                    "name_translation": {
+                        "EN": "Belladeon"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-belladeon.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-belladeon.png",
+                    "grade": 3,
+                    "last_update_ts": "1592177472",
+                    "type_id": 26,
+                    "type": {
+                        "tid": "INUGAMI"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 3,
+                    "class": {
+                        "tid": "DEFENSE"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 10,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 6,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 8,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 9,
+                            "toa": 8,
+                            "arena": 8,
+                            "gvg": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 10,
+                            "necropolis": 8,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 9,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 426,
+            "last_update": "2017-09-15 09:26:34",
+            "last_update_ts": "1505460394000",
+            "members_ids": "426,501,538,386,139",
+            "author": {
+                "id": 14854,
+                "name": "Guillaume Mercadal",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 405,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 256,
+                "last_view": "2020-05-25 11:02:46",
+                "last_view_ts": "1590397366"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 5646,
+            "user_id": 14854,
+            "name": "Team DB10 4min",
+            "comment": "<p>Equipe DB10 plus rapide que le précédente 4min</p>",
+            "type": "DUNGEON",
+            "subtype": "DRAGON",
+            "members": [
+                {
+                    "id": 237,
+                    "name": "Sigmarus",
+                    "name_translation": {
+                        "EN": "Sigmarus"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-sigmarus.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-sigmarus.png",
+                    "grade": 5,
+                    "last_update_ts": "1589758248",
+                    "type_id": 41,
+                    "type": {
+                        "tid": "PHOENIX"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 8,
+                        "dragons": 10,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 6,
+                        "arena_defense": 2,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 8,
+                            "arena": 4,
+                            "gvg": 7,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "dragons",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 10,
+                            "necropolis": 2,
+                            "toa": 6,
+                            "toa_hm": 4,
+                            "arena_offense": 8,
+                            "arena_defense": 3,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 3,
+                            "overall_rating": 8,
+                            "raid": 4,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 5,
+                                "arena": 6,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 426,
+                    "name": "Veromos",
+                    "name_translation": {
+                        "EN": "Veromos"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-veromos.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-veromos.png",
+                    "grade": 5,
+                    "last_update_ts": "1591830314",
+                    "type_id": 71,
+                    "type": {
+                        "tid": "IFRIT"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": null,
+                        "dragons": null,
+                        "necropolis": null,
+                        "toa": null,
+                        "toa_hm": null,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": null,
+                        "guildwar_defense": null,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "arena": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_defense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 9,
+                            "necropolis": 5,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 386,
+                    "name": "Chasun",
+                    "name_translation": {
+                        "EN": "Chasun"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-chasun.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-chasun.png",
+                    "grade": 4,
+                    "last_update_ts": "1591311913",
+                    "type_id": 68,
+                    "type": {
+                        "tid": "SKY_DANCER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 6,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 10,
+                            "arena": 9,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 8,
+                            "necropolis": 7,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 9,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 144,
+                    "name": "Eshir",
+                    "name_translation": {
+                        "EN": "Eshir"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-eshir.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-eshir.png",
+                    "grade": 3,
+                    "last_update_ts": "1592177486",
+                    "type_id": 58,
+                    "type": {
+                        "tid": "WEREWOLF"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 4,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 6,
+                        "arena_defense": 8,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 5,
+                            "toa": 2,
+                            "arena": 7,
+                            "gvg": 7,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "necropolis",
+                        "value": 8,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 5,
+                            "dragons": 7,
+                            "necropolis": 8,
+                            "toa": 6,
+                            "toa_hm": 5,
+                            "arena_offense": 8,
+                            "arena_defense": 7,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 5,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 6,
+                                "arena": 8,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 237,
+            "last_update": "2017-08-28 12:22:32",
+            "last_update_ts": "1503915752000",
+            "members_ids": "237,426,386,144,538",
+            "author": {
+                "id": 14854,
+                "name": "Guillaume Mercadal",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 405,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 81,
+                "last_view": "2020-03-10 23:38:24",
+                "last_view_ts": "1583879904"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 5456,
+            "user_id": 7223,
+            "name": "Team hyper solide et efficace",
+            "comment": "Ces 3 mobs sont très complémentaires!!<br>Le leader skill de groggo augmente les PV de Bella, on a donc avec Amelia 3 très bons tanks.<br>Amelia pose sans arrêt son immunité (merci pour Groggo quand il arrive au bout de son immunité) et très souvent son buff défense, du coup même pas besoin de poser le skill 2 de Groggo...<br>Le break def de Bella sur son skill 1 convient parfaitement à Groggo, qui stun / provoque sans arrêt les adversaires embettants...<br>Vraiment une très bonne alchimie.",
+            "type": "GUILDWAR",
+            "subtype": "OFFENSE",
+            "members": [
+                {
+                    "id": 280,
+                    "name": "Groggo",
+                    "name_translation": {
+                        "EN": "Groggo"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-groggo.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-groggo.png",
+                    "grade": 3,
+                    "last_update_ts": "1592175911",
+                    "type_id": 16,
+                    "type": {
+                        "tid": "GOLEM"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 3,
+                    "class": {
+                        "tid": "DEFENSE"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 4,
+                        "arena_defense": 2,
+                        "guildwar_offense": 6,
+                        "guildwar_defense": 4,
+                        "raid": null,
+                        "maze": null,
+                        "users": 7,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 8,
+                            "arena": 3,
+                            "gvg": 5,
+                            "users": 7
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "toa_hm",
+                        "value": 8,
+                        "cat": "toa"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 1,
+                            "necropolis": 1,
+                            "toa": 1,
+                            "toa_hm": 1,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 5,
+                                "toa": 1,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 139,
+                    "name": "Belladeon",
+                    "name_translation": {
+                        "EN": "Belladeon"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-belladeon.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-belladeon.png",
+                    "grade": 3,
+                    "last_update_ts": "1592177472",
+                    "type_id": 26,
+                    "type": {
+                        "tid": "INUGAMI"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 3,
+                    "class": {
+                        "tid": "DEFENSE"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 10,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 8,
+                        "arena_offense": 6,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 8,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 9,
+                            "toa": 8,
+                            "arena": 8,
+                            "gvg": 9,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 10,
+                            "necropolis": 8,
+                            "toa": 9,
+                            "toa_hm": 9,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 9,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 280,
+            "last_update": "2017-07-16 10:49:17",
+            "last_update_ts": "1500194957000",
+            "members_ids": "280,139,538",
+            "author": {
+                "id": 7223,
+                "name": "Adénor07",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/7223/La-Mort.jpg",
+                "contrib": 921,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 189,
+                "last_view": "2020-06-14 18:53:17",
+                "last_view_ts": "1592153597"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 4
+        },
+        {
+            "id": 6646,
+            "user_id": 22694,
+            "name": "Amelia                                           ",
+            "comment": "<p>Varus &gt; Amelia &gt; Fran 40</p>",
+            "type": "GUILDWAR",
+            "subtype": "OFFENSE",
+            "members": [
+                {
+                    "id": 399,
+                    "name": "Fran",
+                    "name_translation": {
+                        "EN": "Fran"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-fran.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-fran.png",
+                    "grade": 3,
+                    "last_update_ts": "1587632399",
+                    "type_id": 70,
+                    "type": {
+                        "tid": "FAIRY_QUEEN"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 2,
+                        "guildwar_offense": 2,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 7,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 2,
+                            "gvg": 2,
+                            "users": 7
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 2,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 4,
+                            "necropolis": 5,
+                            "toa": 5,
+                            "toa_hm": 4,
+                            "arena_offense": 4,
+                            "arena_defense": 3,
+                            "guildwar_offense": 5,
+                            "guildwar_defense": 4,
+                            "overall_rating": 7,
+                            "raid": 5,
+                            "maze": 4,
+                            "categories": {
+                                "dungeon": 5,
+                                "toa": 5,
+                                "arena": 4,
+                                "gvg": 5
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 538,
+                    "name": "Amelia",
+                    "name_translation": {
+                        "EN": "Amelia"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+                    "grade": 5,
+                    "last_update_ts": "1587632722",
+                    "type_id": 98,
+                    "type": {
+                        "tid": "UNICORN"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 7,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 163,
+                    "name": "Varus",
+                    "name_translation": {
+                        "EN": "Varus"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-varus.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-varus.png",
+                    "grade": 3,
+                    "last_update_ts": "1589758251",
+                    "type_id": 17,
+                    "type": {
+                        "tid": "GRIFFON"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 3,
+                    "class": {
+                        "tid": "DEFENSE"
+                    },
+                    "rating": {
+                        "giants": 4,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 6,
+                        "arena_offense": 4,
+                        "arena_defense": 4,
+                        "guildwar_offense": 6,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 7,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 6,
+                            "arena": 4,
+                            "gvg": 6,
+                            "users": 7
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "toa_hm",
+                        "value": 6,
+                        "cat": "toa"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 6,
+                            "necropolis": 4,
+                            "toa": 10,
+                            "toa_hm": 10,
+                            "arena_offense": 7,
+                            "arena_defense": 7,
+                            "guildwar_offense": 7,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 10,
+                                "arena": 7,
+                                "gvg": 7
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 399,
+            "last_update": "2020-04-19 02:42:02",
+            "last_update_ts": "1587256922000",
+            "members_ids": "399,538,163",
+            "author": {
+                "id": 22694,
+                "name": "Nephylem",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 0,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 52,
+                "last_view": "2020-06-04 00:32:36",
+                "last_view_ts": "1591223556"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        }
+    ],
+    "views": {
+        "count": 10489,
+        "last_view": "2020-06-20 01:30:21",
+        "last_view_ts": "1592609421"
+    },
+    "key": "SWDB-FullInfo-538-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+    "favorite": false
+}
